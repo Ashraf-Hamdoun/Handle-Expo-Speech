@@ -1,7 +1,7 @@
 {
   "name": "handle-expo-speech",
   "version": "1.0.0",
-  "description": "This's for handling expo-speech",
+  "description": "This's for handling expo-speech's voices",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
