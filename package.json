@@ -1,11 +1,19 @@
 {
   "name": "handle-expo-speech",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "This's for handling expo-speech's voices",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "react-native",
+    "expo",
+    "expo-speech",
+    "handle-expo-speech",
+    "speech",
+    "voice"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Ashraf-Hamdoun/Handle-Expo-Speech.git"
