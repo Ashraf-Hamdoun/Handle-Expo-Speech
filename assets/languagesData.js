@@ -5,6 +5,7 @@ const LanguagesData = [
     value: "af",
     type: "lang",
     voices: [],
+    placeholder: "skryf jou teks hier",
   },
   {
     key: "lang_af-NA",
@@ -12,6 +13,7 @@ const LanguagesData = [
     value: "af-NA",
     type: "lang",
     voices: [],
+    placeholder: "skryf jou teks hier",
   },
   {
     key: "lang_af-ZA",
@@ -19,6 +21,7 @@ const LanguagesData = [
     value: "af-ZA",
     type: "lang",
     voices: [],
+    placeholder: "skryf jou teks hier",
   },
   {
     key: "lang_agq",
@@ -26,6 +29,7 @@ const LanguagesData = [
     value: "agq",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_agq-CM",
@@ -33,6 +37,7 @@ const LanguagesData = [
     value: "agq-CM",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_ak",
@@ -40,6 +45,7 @@ const LanguagesData = [
     value: "ak",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_ak-GH",
@@ -47,6 +53,7 @@ const LanguagesData = [
     value: "ak-GH",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_am",
@@ -54,6 +61,7 @@ const LanguagesData = [
     value: "am",
     type: "lang",
     voices: [],
+    placeholder: "ጽሑፍ እዚህ ይጻፉ",
   },
   {
     key: "lang_am-ET",
@@ -61,6 +69,7 @@ const LanguagesData = [
     value: "am-ET",
     type: "lang",
     voices: [],
+    placeholder: "ጽሑፍ እዚህ ይጻፉ",
   },
   {
     key: "lang_ar",
@@ -68,6 +77,7 @@ const LanguagesData = [
     value: "ar",
     type: "lang",
     voices: [],
+    placeholder: "اكتب نصك هنا",
   },
   {
     key: "lang_ar-1",
@@ -75,6 +85,7 @@ const LanguagesData = [
     value: "ar-1",
     type: "lang",
     voices: [],
+    placeholder: "اكتب نصك هنا",
   },
   {
     key: "lang_ar-AE",
@@ -82,6 +93,7 @@ const LanguagesData = [
     value: "ar-AE",
     type: "lang",
     voices: [],
+    placeholder: "اكتب نصك هنا",
   },
   {
     key: "lang_ar-BH",
@@ -89,6 +101,7 @@ const LanguagesData = [
     value: "ar-BH",
     type: "lang",
     voices: [],
+    placeholder: "اكتب نصك هنا",
   },
   {
     key: "lang_ar-DJ",
@@ -96,6 +109,7 @@ const LanguagesData = [
     value: "ar-DJ",
     type: "lang",
     voices: [],
+    placeholder: "اكتب نصك هنا",
   },
   {
     key: "lang_ar-DZ",
@@ -103,6 +117,7 @@ const LanguagesData = [
     value: "ar-DZ",
     type: "lang",
     voices: [],
+    placeholder: "اكتب نصك هنا",
   },
   {
     key: "lang_ar-EG",
@@ -110,6 +125,7 @@ const LanguagesData = [
     value: "ar-EG",
     type: "lang",
     voices: [],
+    placeholder: "اكتب نصك هنا",
   },
   {
     key: "lang_ar-EH",
@@ -117,6 +133,7 @@ const LanguagesData = [
     value: "ar-EH",
     type: "lang",
     voices: [],
+    placeholder: "اكتب نصك هنا",
   },
   {
     key: "lang_ar-ER",
@@ -124,6 +141,7 @@ const LanguagesData = [
     value: "ar-ER",
     type: "lang",
     voices: [],
+    placeholder: "اكتب نصك هنا",
   },
   {
     key: "lang_ar-IL",
@@ -131,6 +149,7 @@ const LanguagesData = [
     value: "ar-IL",
     type: "lang",
     voices: [],
+    placeholder: "اكتب نصك هنا",
   },
   {
     key: "lang_ar-IQ",
@@ -138,6 +157,7 @@ const LanguagesData = [
     value: "ar-IQ",
     type: "lang",
     voices: [],
+    placeholder: "اكتب نصك هنا",
   },
   {
     key: "lang_ar-JO",
@@ -145,6 +165,7 @@ const LanguagesData = [
     value: "ar-JO",
     type: "lang",
     voices: [],
+    placeholder: "اكتب نصك هنا",
   },
   {
     key: "lang_ar-KM",
@@ -152,6 +173,7 @@ const LanguagesData = [
     value: "ar-KM",
     type: "lang",
     voices: [],
+    placeholder: "اكتب نصك هنا",
   },
   {
     key: "lang_ar-KW",
@@ -159,6 +181,7 @@ const LanguagesData = [
     value: "ar-KW",
     type: "lang",
     voices: [],
+    placeholder: "اكتب نصك هنا",
   },
   {
     key: "lang_ar-LB",
@@ -166,6 +189,7 @@ const LanguagesData = [
     value: "ar-LB",
     type: "lang",
     voices: [],
+    placeholder: "اكتب نصك هنا",
   },
   {
     key: "lang_ar-LY",
@@ -173,6 +197,7 @@ const LanguagesData = [
     value: "ar-LY",
     type: "lang",
     voices: [],
+    placeholder: "اكتب نصك هناwrite your text here",
   },
   {
     key: "lang_ar-MA",
@@ -180,6 +205,7 @@ const LanguagesData = [
     value: "ar-MA",
     type: "lang",
     voices: [],
+    placeholder: "اكتب نصك هنا",
   },
   {
     key: "lang_ar-MR",
@@ -187,6 +213,7 @@ const LanguagesData = [
     value: "ar-MR",
     type: "lang",
     voices: [],
+    placeholder: "اكتب نصك هنا",
   },
   {
     key: "lang_ar-OM",
@@ -194,6 +221,7 @@ const LanguagesData = [
     value: "ar-OM",
     type: "lang",
     voices: [],
+    placeholder: "اكتب نصك هنا",
   },
   {
     key: "lang_ar-PS",
@@ -201,6 +229,7 @@ const LanguagesData = [
     value: "ar-PS",
     type: "lang",
     voices: [],
+    placeholder: "اكتب نصك هنا",
   },
   {
     key: "lang_ar-QA",
@@ -208,6 +237,7 @@ const LanguagesData = [
     value: "ar-QA",
     type: "lang",
     voices: [],
+    placeholder: "اكتب نصك هنا",
   },
   {
     key: "lang_ar-SA",
@@ -215,6 +245,7 @@ const LanguagesData = [
     value: "ar-SA",
     type: "lang",
     voices: [],
+    placeholder: "اكتب نصك هنا",
   },
   {
     key: "lang_ar-SD",
@@ -222,6 +253,7 @@ const LanguagesData = [
     value: "ar-SD",
     type: "lang",
     voices: [],
+    placeholder: "اكتب نصك هنا",
   },
   {
     key: "lang_ar-SO",
@@ -229,6 +261,7 @@ const LanguagesData = [
     value: "ar-SO",
     type: "lang",
     voices: [],
+    placeholder: "اكتب نصك هنا",
   },
   {
     key: "lang_ar-SS",
@@ -236,6 +269,7 @@ const LanguagesData = [
     value: "ar-SS",
     type: "lang",
     voices: [],
+    placeholder: "اكتب نصك هنا",
   },
   {
     key: "lang_ar-SY",
@@ -243,6 +277,7 @@ const LanguagesData = [
     value: "ar-SY",
     type: "lang",
     voices: [],
+    placeholder: "اكتب نصك هنا",
   },
   {
     key: "lang_ar-TD",
@@ -250,6 +285,7 @@ const LanguagesData = [
     value: "ar-TD",
     type: "lang",
     voices: [],
+    placeholder: "اكتب نصك هنا",
   },
   {
     key: "lang_ar-TN",
@@ -257,6 +293,7 @@ const LanguagesData = [
     value: "ar-TN",
     type: "lang",
     voices: [],
+    placeholder: "اكتب نصك هنا",
   },
   {
     key: "lang_ar-YE",
@@ -264,6 +301,7 @@ const LanguagesData = [
     value: "ar-YE",
     type: "lang",
     voices: [],
+    placeholder: "اكتب نصك هنا",
   },
   {
     key: "lang_as",
@@ -271,6 +309,7 @@ const LanguagesData = [
     value: "as",
     type: "lang",
     voices: [],
+    placeholder: "আপোনাৰ পাঠ ইয়াত লিখক",
   },
   {
     key: "lang_as-IN",
@@ -278,6 +317,7 @@ const LanguagesData = [
     value: "as-IN",
     type: "lang",
     voices: [],
+    placeholder: "আপোনাৰ পাঠ ইয়াত লিখক",
   },
   {
     key: "lang_asa",
@@ -285,6 +325,7 @@ const LanguagesData = [
     value: "asa",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_asa-TZ",
@@ -292,6 +333,7 @@ const LanguagesData = [
     value: "asa-TZ",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_az",
@@ -299,6 +341,7 @@ const LanguagesData = [
     value: "az",
     type: "lang",
     voices: [],
+    placeholder: "burada öz mətninizi yazın",
   },
   {
     key: "lang_az",
@@ -306,6 +349,7 @@ const LanguagesData = [
     value: "az",
     type: "lang",
     voices: [],
+    placeholder: "burada öz mətninizi yazın",
   },
   {
     key: "lang_az-AZ",
@@ -313,6 +357,7 @@ const LanguagesData = [
     value: "az-AZ",
     type: "lang",
     voices: [],
+    placeholder: "burada öz mətninizi yazın",
   },
   {
     key: "lang_az",
@@ -320,6 +365,7 @@ const LanguagesData = [
     value: "az",
     type: "lang",
     voices: [],
+    placeholder: "burada öz mətninizi yazın",
   },
   {
     key: "lang_az-AZ",
@@ -327,6 +373,7 @@ const LanguagesData = [
     value: "az-AZ",
     type: "lang",
     voices: [],
+    placeholder: "burada öz mətninizi yazın",
   },
   {
     key: "lang_bas",
@@ -334,6 +381,7 @@ const LanguagesData = [
     value: "bas",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_bas-CM",
@@ -341,6 +389,7 @@ const LanguagesData = [
     value: "bas-CM",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_be",
@@ -348,6 +397,7 @@ const LanguagesData = [
     value: "be",
     type: "lang",
     voices: [],
+    placeholder: "напішыце свой тэкст тут",
   },
   {
     key: "lang_be-BY",
@@ -355,6 +405,7 @@ const LanguagesData = [
     value: "be-BY",
     type: "lang",
     voices: [],
+    placeholder: "напішыце свой тэкст тут",
   },
   {
     key: "lang_bem",
@@ -362,6 +413,7 @@ const LanguagesData = [
     value: "bem",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_bem-ZM",
@@ -369,6 +421,7 @@ const LanguagesData = [
     value: "bem-ZM",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_bez",
@@ -376,6 +429,7 @@ const LanguagesData = [
     value: "bez",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_bez-TZ",
@@ -383,6 +437,7 @@ const LanguagesData = [
     value: "bez-TZ",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_bg",
@@ -390,6 +445,7 @@ const LanguagesData = [
     value: "bg",
     type: "lang",
     voices: [],
+    placeholder: "напишете своя текст тук",
   },
   {
     key: "lang_bg-BG",
@@ -397,6 +453,7 @@ const LanguagesData = [
     value: "bg-BG",
     type: "lang",
     voices: [],
+    placeholder: "напишете своя текст тук",
   },
   {
     key: "lang_bm",
@@ -404,6 +461,7 @@ const LanguagesData = [
     value: "bm",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_bm-ML",
@@ -411,6 +469,7 @@ const LanguagesData = [
     value: "bm-ML",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_bn",
@@ -418,6 +477,7 @@ const LanguagesData = [
     value: "bn",
     type: "lang",
     voices: [],
+    placeholder: "আপনার লেখা এখানে লিখুন",
   },
   {
     key: "lang_bn-BD",
@@ -425,6 +485,7 @@ const LanguagesData = [
     value: "bn-BD",
     type: "lang",
     voices: [],
+    placeholder: "আপনার লেখা এখানে লিখুন",
   },
   {
     key: "lang_bn-IN",
@@ -432,6 +493,7 @@ const LanguagesData = [
     value: "bn-IN",
     type: "lang",
     voices: [],
+    placeholder: "আপনার লেখা এখানে লিখুন",
   },
   {
     key: "lang_bo",
@@ -439,6 +501,7 @@ const LanguagesData = [
     value: "bo",
     type: "lang",
     voices: [],
+    placeholder: "ཁྱོད་ཀྱི་སློབ་ཚན་འདི་ནས་འབྲི་དགོས།",
   },
   {
     key: "lang_bo-CN",
@@ -446,6 +509,7 @@ const LanguagesData = [
     value: "bo-CN",
     type: "lang",
     voices: [],
+    placeholder: "ཁྱོད་ཀྱི་སློབ་ཚན་འདི་ནས་འབྲི་དགོས།",
   },
   {
     key: "lang_bo-IN",
@@ -453,6 +517,7 @@ const LanguagesData = [
     value: "bo-IN",
     type: "lang",
     voices: [],
+    placeholder: "ཁྱོད་ཀྱི་སློབ་ཚན་འདི་ནས་འབྲི་དགོས།",
   },
   {
     key: "lang_br",
@@ -460,6 +525,7 @@ const LanguagesData = [
     value: "br",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_br-FR",
@@ -467,6 +533,7 @@ const LanguagesData = [
     value: "br-FR",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_brx",
@@ -474,6 +541,7 @@ const LanguagesData = [
     value: "brx",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_brx-IN",
@@ -481,6 +549,7 @@ const LanguagesData = [
     value: "brx-IN",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_bs",
@@ -488,6 +557,7 @@ const LanguagesData = [
     value: "bs",
     type: "lang",
     voices: [],
+    placeholder: "napišite svoj tekst ovdje",
   },
   {
     key: "lang_bs",
@@ -495,6 +565,7 @@ const LanguagesData = [
     value: "bs",
     type: "lang",
     voices: [],
+    placeholder: "napišite svoj tekst ovdje",
   },
   {
     key: "lang_bs-BA",
@@ -502,6 +573,7 @@ const LanguagesData = [
     value: "bs-BA",
     type: "lang",
     voices: [],
+    placeholder: "napišite svoj tekst ovdje",
   },
   {
     key: "lang_bs",
@@ -509,6 +581,7 @@ const LanguagesData = [
     value: "bs",
     type: "lang",
     voices: [],
+    placeholder: "napišite svoj tekst ovdje",
   },
   {
     key: "lang_bs-BA",
@@ -516,6 +589,7 @@ const LanguagesData = [
     value: "bs-BA",
     type: "lang",
     voices: [],
+    placeholder: "napišite svoj tekst ovdje",
   },
   {
     key: "lang_ca",
@@ -523,6 +597,7 @@ const LanguagesData = [
     value: "ca",
     type: "lang",
     voices: [],
+    placeholder: "escriu el teu text aquí",
   },
   {
     key: "lang_ca-AD",
@@ -530,6 +605,7 @@ const LanguagesData = [
     value: "ca-AD",
     type: "lang",
     voices: [],
+    placeholder: "escriu el teu text aquí",
   },
   {
     key: "lang_ca-ES",
@@ -537,6 +613,7 @@ const LanguagesData = [
     value: "ca-ES",
     type: "lang",
     voices: [],
+    placeholder: "escriu el teu text aquí",
   },
   {
     key: "lang_ca-FR",
@@ -544,6 +621,7 @@ const LanguagesData = [
     value: "ca-FR",
     type: "lang",
     voices: [],
+    placeholder: "escriu el teu text aquí",
   },
   {
     key: "lang_ca-IT",
@@ -551,6 +629,7 @@ const LanguagesData = [
     value: "ca-IT",
     type: "lang",
     voices: [],
+    placeholder: "escriu el teu text aquí",
   },
   {
     key: "lang_cgg",
@@ -558,6 +637,7 @@ const LanguagesData = [
     value: "cgg",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_cgg-UG",
@@ -565,6 +645,7 @@ const LanguagesData = [
     value: "cgg-UG",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_chr",
@@ -572,6 +653,7 @@ const LanguagesData = [
     value: "chr",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_chr-US",
@@ -579,6 +661,7 @@ const LanguagesData = [
     value: "chr-US",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_cs",
@@ -586,6 +669,7 @@ const LanguagesData = [
     value: "cs",
     type: "lang",
     voices: [],
+    placeholder: "napište sem svůj text",
   },
   {
     key: "lang_cs-CZ",
@@ -593,6 +677,7 @@ const LanguagesData = [
     value: "cs-CZ",
     type: "lang",
     voices: [],
+    placeholder: "napište sem svůj text",
   },
   {
     key: "lang_cy",
@@ -600,6 +685,7 @@ const LanguagesData = [
     value: "cy",
     type: "lang",
     voices: [],
+    placeholder: "ysgrifennwch eich testun yma",
   },
   {
     key: "lang_cy-GB",
@@ -607,6 +693,7 @@ const LanguagesData = [
     value: "cy-GB",
     type: "lang",
     voices: [],
+    placeholder: "ysgrifennwch eich testun yma",
   },
   {
     key: "lang_da",
@@ -614,6 +701,7 @@ const LanguagesData = [
     value: "da",
     type: "lang",
     voices: [],
+    placeholder: "skriv din tekst her",
   },
   {
     key: "lang_da-DK",
@@ -621,6 +709,7 @@ const LanguagesData = [
     value: "da-DK",
     type: "lang",
     voices: [],
+    placeholder: "skriv din tekst her",
   },
   {
     key: "lang_da-GL",
@@ -628,6 +717,7 @@ const LanguagesData = [
     value: "da-GL",
     type: "lang",
     voices: [],
+    placeholder: "skriv din tekst her",
   },
   {
     key: "lang_dav",
@@ -635,6 +725,7 @@ const LanguagesData = [
     value: "dav",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_dav-KE",
@@ -642,6 +733,7 @@ const LanguagesData = [
     value: "dav-KE",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_de",
@@ -649,6 +741,7 @@ const LanguagesData = [
     value: "de",
     type: "lang",
     voices: [],
+    placeholder: "schreib deinen text hier",
   },
   {
     key: "lang_de-AT",
@@ -656,6 +749,7 @@ const LanguagesData = [
     value: "de-AT",
     type: "lang",
     voices: [],
+    placeholder: "schreib deinen text hier",
   },
   {
     key: "lang_de-BE",
@@ -663,6 +757,7 @@ const LanguagesData = [
     value: "de-BE",
     type: "lang",
     voices: [],
+    placeholder: "schreib deinen text hier",
   },
   {
     key: "lang_de-CH",
@@ -670,6 +765,7 @@ const LanguagesData = [
     value: "de-CH",
     type: "lang",
     voices: [],
+    placeholder: "schreib deinen text hier",
   },
   {
     key: "lang_de-DE",
@@ -677,6 +773,7 @@ const LanguagesData = [
     value: "de-DE",
     type: "lang",
     voices: [],
+    placeholder: "schreib deinen text hier",
   },
   {
     key: "lang_de-LI",
@@ -684,6 +781,7 @@ const LanguagesData = [
     value: "de-LI",
     type: "lang",
     voices: [],
+    placeholder: "schreib deinen text hier",
   },
   {
     key: "lang_de-LU",
@@ -691,6 +789,7 @@ const LanguagesData = [
     value: "de-LU",
     type: "lang",
     voices: [],
+    placeholder: "schreib deinen text hier",
   },
   {
     key: "lang_dje",
@@ -698,6 +797,7 @@ const LanguagesData = [
     value: "dje",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_dje-NE",
@@ -705,6 +805,7 @@ const LanguagesData = [
     value: "dje-NE",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_dua",
@@ -712,6 +813,7 @@ const LanguagesData = [
     value: "dua",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_dua-CM",
@@ -719,6 +821,7 @@ const LanguagesData = [
     value: "dua-CM",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_dyo",
@@ -726,6 +829,7 @@ const LanguagesData = [
     value: "dyo",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_dyo-SN",
@@ -733,6 +837,7 @@ const LanguagesData = [
     value: "dyo-SN",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_dz",
@@ -740,6 +845,7 @@ const LanguagesData = [
     value: "dz",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_dz-BT",
@@ -747,6 +853,7 @@ const LanguagesData = [
     value: "dz-BT",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_ebu",
@@ -754,6 +861,7 @@ const LanguagesData = [
     value: "ebu",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_ebu-KE",
@@ -761,6 +869,7 @@ const LanguagesData = [
     value: "ebu-KE",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_ee",
@@ -768,6 +877,7 @@ const LanguagesData = [
     value: "ee",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_ee-GH",
@@ -775,6 +885,7 @@ const LanguagesData = [
     value: "ee-GH",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_ee-TG",
@@ -782,6 +893,7 @@ const LanguagesData = [
     value: "ee-TG",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_el",
@@ -789,6 +901,7 @@ const LanguagesData = [
     value: "el",
     type: "lang",
     voices: [],
+    placeholder: "γράψτε το κείμενό σας εδώ",
   },
   {
     key: "lang_el-CY",
@@ -796,6 +909,7 @@ const LanguagesData = [
     value: "el-CY",
     type: "lang",
     voices: [],
+    placeholder: "γράψτε το κείμενό σας εδώ",
   },
   {
     key: "lang_el-GR",
@@ -803,6 +917,7 @@ const LanguagesData = [
     value: "el-GR",
     type: "lang",
     voices: [],
+    placeholder: "γράψτε το κείμενό σας εδώ",
   },
   {
     key: "lang_en",
@@ -810,6 +925,7 @@ const LanguagesData = [
     value: "en",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-1",
@@ -817,6 +933,7 @@ const LanguagesData = [
     value: "en-1",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-150",
@@ -824,6 +941,7 @@ const LanguagesData = [
     value: "en-150",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-AG",
@@ -831,6 +949,7 @@ const LanguagesData = [
     value: "en-AG",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-AI",
@@ -838,6 +957,7 @@ const LanguagesData = [
     value: "en-AI",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-AS",
@@ -845,6 +965,7 @@ const LanguagesData = [
     value: "en-AS",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-AU",
@@ -852,6 +973,7 @@ const LanguagesData = [
     value: "en-AU",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-BB",
@@ -859,6 +981,7 @@ const LanguagesData = [
     value: "en-BB",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-BE",
@@ -866,6 +989,7 @@ const LanguagesData = [
     value: "en-BE",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-BM",
@@ -873,6 +997,7 @@ const LanguagesData = [
     value: "en-BM",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-BS",
@@ -880,6 +1005,7 @@ const LanguagesData = [
     value: "en-BS",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-BW",
@@ -887,6 +1013,7 @@ const LanguagesData = [
     value: "en-BW",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-BZ",
@@ -894,6 +1021,7 @@ const LanguagesData = [
     value: "en-BZ",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-CA",
@@ -901,6 +1029,7 @@ const LanguagesData = [
     value: "en-CA",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-CC",
@@ -908,6 +1037,7 @@ const LanguagesData = [
     value: "en-CC",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-CK",
@@ -915,6 +1045,7 @@ const LanguagesData = [
     value: "en-CK",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-CM",
@@ -922,6 +1053,7 @@ const LanguagesData = [
     value: "en-CM",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-CX",
@@ -929,6 +1061,7 @@ const LanguagesData = [
     value: "en-CX",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-DG",
@@ -936,6 +1069,7 @@ const LanguagesData = [
     value: "en-DG",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-DM",
@@ -943,6 +1077,7 @@ const LanguagesData = [
     value: "en-DM",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-ER",
@@ -950,6 +1085,7 @@ const LanguagesData = [
     value: "en-ER",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-FJ",
@@ -957,6 +1093,7 @@ const LanguagesData = [
     value: "en-FJ",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-FK",
@@ -964,6 +1101,7 @@ const LanguagesData = [
     value: "en-FK",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-FM",
@@ -971,6 +1109,7 @@ const LanguagesData = [
     value: "en-FM",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-GB",
@@ -978,6 +1117,7 @@ const LanguagesData = [
     value: "en-GB",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-GD",
@@ -985,6 +1125,7 @@ const LanguagesData = [
     value: "en-GD",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-GG",
@@ -992,6 +1133,7 @@ const LanguagesData = [
     value: "en-GG",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-GH",
@@ -999,6 +1141,7 @@ const LanguagesData = [
     value: "en-GH",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-GI",
@@ -1006,6 +1149,7 @@ const LanguagesData = [
     value: "en-GI",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-GM",
@@ -1013,6 +1157,7 @@ const LanguagesData = [
     value: "en-GM",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-GU",
@@ -1020,6 +1165,7 @@ const LanguagesData = [
     value: "en-GU",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-GY",
@@ -1027,6 +1173,7 @@ const LanguagesData = [
     value: "en-GY",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-HK",
@@ -1034,6 +1181,7 @@ const LanguagesData = [
     value: "en-HK",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-IE",
@@ -1041,6 +1189,7 @@ const LanguagesData = [
     value: "en-IE",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-IM",
@@ -1048,6 +1197,7 @@ const LanguagesData = [
     value: "en-IM",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-IN",
@@ -1055,6 +1205,7 @@ const LanguagesData = [
     value: "en-IN",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-IO",
@@ -1062,6 +1213,7 @@ const LanguagesData = [
     value: "en-IO",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-JE",
@@ -1069,6 +1221,7 @@ const LanguagesData = [
     value: "en-JE",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-JM",
@@ -1076,6 +1229,7 @@ const LanguagesData = [
     value: "en-JM",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-KE",
@@ -1083,6 +1237,7 @@ const LanguagesData = [
     value: "en-KE",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-KI",
@@ -1090,6 +1245,7 @@ const LanguagesData = [
     value: "en-KI",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-KN",
@@ -1097,6 +1253,7 @@ const LanguagesData = [
     value: "en-KN",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-KY",
@@ -1104,6 +1261,7 @@ const LanguagesData = [
     value: "en-KY",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-LC",
@@ -1111,6 +1269,7 @@ const LanguagesData = [
     value: "en-LC",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-LR",
@@ -1118,6 +1277,7 @@ const LanguagesData = [
     value: "en-LR",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-LS",
@@ -1125,6 +1285,7 @@ const LanguagesData = [
     value: "en-LS",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-MG",
@@ -1132,6 +1293,7 @@ const LanguagesData = [
     value: "en-MG",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-MH",
@@ -1139,6 +1301,7 @@ const LanguagesData = [
     value: "en-MH",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-MO",
@@ -1146,6 +1309,7 @@ const LanguagesData = [
     value: "en-MO",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-MP",
@@ -1153,6 +1317,7 @@ const LanguagesData = [
     value: "en-MP",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-MS",
@@ -1160,6 +1325,7 @@ const LanguagesData = [
     value: "en-MS",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-MT",
@@ -1167,6 +1333,7 @@ const LanguagesData = [
     value: "en-MT",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-MU",
@@ -1174,6 +1341,7 @@ const LanguagesData = [
     value: "en-MU",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-MW",
@@ -1181,6 +1349,7 @@ const LanguagesData = [
     value: "en-MW",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-NA",
@@ -1188,6 +1357,7 @@ const LanguagesData = [
     value: "en-NA",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-NF",
@@ -1195,6 +1365,7 @@ const LanguagesData = [
     value: "en-NF",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-NG",
@@ -1202,6 +1373,7 @@ const LanguagesData = [
     value: "en-NG",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-NR",
@@ -1209,6 +1381,7 @@ const LanguagesData = [
     value: "en-NR",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-NU",
@@ -1216,6 +1389,7 @@ const LanguagesData = [
     value: "en-NU",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-NZ",
@@ -1223,6 +1397,7 @@ const LanguagesData = [
     value: "en-NZ",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-PG",
@@ -1230,6 +1405,7 @@ const LanguagesData = [
     value: "en-PG",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-PH",
@@ -1237,6 +1413,7 @@ const LanguagesData = [
     value: "en-PH",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-PK",
@@ -1244,6 +1421,7 @@ const LanguagesData = [
     value: "en-PK",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-PN",
@@ -1251,6 +1429,7 @@ const LanguagesData = [
     value: "en-PN",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-PR",
@@ -1258,6 +1437,7 @@ const LanguagesData = [
     value: "en-PR",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-PW",
@@ -1265,6 +1445,7 @@ const LanguagesData = [
     value: "en-PW",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-RW",
@@ -1272,6 +1453,7 @@ const LanguagesData = [
     value: "en-RW",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-SB",
@@ -1279,6 +1461,7 @@ const LanguagesData = [
     value: "en-SB",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-SC",
@@ -1286,6 +1469,7 @@ const LanguagesData = [
     value: "en-SC",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-SD",
@@ -1293,6 +1477,7 @@ const LanguagesData = [
     value: "en-SD",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-SG",
@@ -1300,6 +1485,7 @@ const LanguagesData = [
     value: "en-SG",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-SH",
@@ -1307,6 +1493,7 @@ const LanguagesData = [
     value: "en-SH",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-SL",
@@ -1314,6 +1501,7 @@ const LanguagesData = [
     value: "en-SL",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-SS",
@@ -1321,6 +1509,7 @@ const LanguagesData = [
     value: "en-SS",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-SX",
@@ -1328,6 +1517,7 @@ const LanguagesData = [
     value: "en-SX",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-SZ",
@@ -1335,6 +1525,7 @@ const LanguagesData = [
     value: "en-SZ",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-TC",
@@ -1342,6 +1533,7 @@ const LanguagesData = [
     value: "en-TC",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-TK",
@@ -1349,6 +1541,7 @@ const LanguagesData = [
     value: "en-TK",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-TO",
@@ -1356,6 +1549,7 @@ const LanguagesData = [
     value: "en-TO",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-TT",
@@ -1363,6 +1557,7 @@ const LanguagesData = [
     value: "en-TT",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-TV",
@@ -1370,6 +1565,7 @@ const LanguagesData = [
     value: "en-TV",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-TZ",
@@ -1377,6 +1573,7 @@ const LanguagesData = [
     value: "en-TZ",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-UG",
@@ -1384,6 +1581,7 @@ const LanguagesData = [
     value: "en-UG",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-UM",
@@ -1391,6 +1589,7 @@ const LanguagesData = [
     value: "en-UM",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-US",
@@ -1398,6 +1597,7 @@ const LanguagesData = [
     value: "en-US",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-US",
@@ -1405,6 +1605,7 @@ const LanguagesData = [
     value: "en-US",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-VC",
@@ -1412,6 +1613,7 @@ const LanguagesData = [
     value: "en-VC",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-VG",
@@ -1419,6 +1621,7 @@ const LanguagesData = [
     value: "en-VG",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-VI",
@@ -1426,6 +1629,7 @@ const LanguagesData = [
     value: "en-VI",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-VU",
@@ -1433,6 +1637,7 @@ const LanguagesData = [
     value: "en-VU",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-WS",
@@ -1440,6 +1645,7 @@ const LanguagesData = [
     value: "en-WS",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-ZA",
@@ -1447,6 +1653,7 @@ const LanguagesData = [
     value: "en-ZA",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-ZM",
@@ -1454,6 +1661,7 @@ const LanguagesData = [
     value: "en-ZM",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_en-ZW",
@@ -1461,6 +1669,7 @@ const LanguagesData = [
     value: "en-ZW",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_eo",
@@ -1468,6 +1677,7 @@ const LanguagesData = [
     value: "eo",
     type: "lang",
     voices: [],
+    placeholder: "skribu vian tekston ĉi tie",
   },
   {
     key: "lang_es",
@@ -1475,6 +1685,7 @@ const LanguagesData = [
     value: "es",
     type: "lang",
     voices: [],
+    placeholder: "escribe tu texto aquí",
   },
   {
     key: "lang_es-419",
@@ -1482,6 +1693,7 @@ const LanguagesData = [
     value: "es-419",
     type: "lang",
     voices: [],
+    placeholder: "escribe tu texto aquí",
   },
   {
     key: "lang_es-AR",
@@ -1489,6 +1701,7 @@ const LanguagesData = [
     value: "es-AR",
     type: "lang",
     voices: [],
+    placeholder: "escribe tu texto aquí",
   },
   {
     key: "lang_es-BO",
@@ -1496,6 +1709,7 @@ const LanguagesData = [
     value: "es-BO",
     type: "lang",
     voices: [],
+    placeholder: "escribe tu texto aquí",
   },
   {
     key: "lang_es-CL",
@@ -1503,6 +1717,7 @@ const LanguagesData = [
     value: "es-CL",
     type: "lang",
     voices: [],
+    placeholder: "escribe tu texto aquí",
   },
   {
     key: "lang_es-CO",
@@ -1510,6 +1725,7 @@ const LanguagesData = [
     value: "es-CO",
     type: "lang",
     voices: [],
+    placeholder: "escribe tu texto aquí",
   },
   {
     key: "lang_es-CR",
@@ -1517,6 +1733,7 @@ const LanguagesData = [
     value: "es-CR",
     type: "lang",
     voices: [],
+    placeholder: "escribe tu texto aquí",
   },
   {
     key: "lang_es-CU",
@@ -1524,6 +1741,7 @@ const LanguagesData = [
     value: "es-CU",
     type: "lang",
     voices: [],
+    placeholder: "escribe tu texto aquí",
   },
   {
     key: "lang_es-DO",
@@ -1531,6 +1749,7 @@ const LanguagesData = [
     value: "es-DO",
     type: "lang",
     voices: [],
+    placeholder: "escribe tu texto aquí",
   },
   {
     key: "lang_es-EA",
@@ -1538,6 +1757,7 @@ const LanguagesData = [
     value: "es-EA",
     type: "lang",
     voices: [],
+    placeholder: "escribe tu texto aquí",
   },
   {
     key: "lang_es-EC",
@@ -1545,6 +1765,7 @@ const LanguagesData = [
     value: "es-EC",
     type: "lang",
     voices: [],
+    placeholder: "escribe tu texto aquí",
   },
   {
     key: "lang_es-ES",
@@ -1552,6 +1773,7 @@ const LanguagesData = [
     value: "es-ES",
     type: "lang",
     voices: [],
+    placeholder: "escribe tu texto aquí",
   },
   {
     key: "lang_es-GQ",
@@ -1559,6 +1781,7 @@ const LanguagesData = [
     value: "es-GQ",
     type: "lang",
     voices: [],
+    placeholder: "escribe tu texto aquí",
   },
   {
     key: "lang_es-GT",
@@ -1566,6 +1789,7 @@ const LanguagesData = [
     value: "es-GT",
     type: "lang",
     voices: [],
+    placeholder: "escribe tu texto aquí",
   },
   {
     key: "lang_es-HN",
@@ -1573,6 +1797,7 @@ const LanguagesData = [
     value: "es-HN",
     type: "lang",
     voices: [],
+    placeholder: "escribe tu texto aquí",
   },
   {
     key: "lang_es-IC",
@@ -1580,6 +1805,7 @@ const LanguagesData = [
     value: "es-IC",
     type: "lang",
     voices: [],
+    placeholder: "escribe tu texto aquí",
   },
   {
     key: "lang_es-MX",
@@ -1587,6 +1813,7 @@ const LanguagesData = [
     value: "es-MX",
     type: "lang",
     voices: [],
+    placeholder: "escribe tu texto aquí",
   },
   {
     key: "lang_es-NI",
@@ -1594,6 +1821,7 @@ const LanguagesData = [
     value: "es-NI",
     type: "lang",
     voices: [],
+    placeholder: "escribe tu texto aquí",
   },
   {
     key: "lang_es-PA",
@@ -1601,6 +1829,7 @@ const LanguagesData = [
     value: "es-PA",
     type: "lang",
     voices: [],
+    placeholder: "escribe tu texto aquí",
   },
   {
     key: "lang_es-PE",
@@ -1608,6 +1837,7 @@ const LanguagesData = [
     value: "es-PE",
     type: "lang",
     voices: [],
+    placeholder: "escribe tu texto aquí",
   },
   {
     key: "lang_es-PH",
@@ -1615,6 +1845,7 @@ const LanguagesData = [
     value: "es-PH",
     type: "lang",
     voices: [],
+    placeholder: "escribe tu texto aquí",
   },
   {
     key: "lang_es-PR",
@@ -1622,6 +1853,7 @@ const LanguagesData = [
     value: "es-PR",
     type: "lang",
     voices: [],
+    placeholder: "escribe tu texto aquí",
   },
   {
     key: "lang_es-PY",
@@ -1629,6 +1861,7 @@ const LanguagesData = [
     value: "es-PY",
     type: "lang",
     voices: [],
+    placeholder: "escribe tu texto aquí",
   },
   {
     key: "lang_es-SV",
@@ -1636,6 +1869,7 @@ const LanguagesData = [
     value: "es-SV",
     type: "lang",
     voices: [],
+    placeholder: "escribe tu texto aquí",
   },
   {
     key: "lang_es-US",
@@ -1643,6 +1877,7 @@ const LanguagesData = [
     value: "es-US",
     type: "lang",
     voices: [],
+    placeholder: "escribe tu texto aquí",
   },
   {
     key: "lang_es-UY",
@@ -1650,6 +1885,7 @@ const LanguagesData = [
     value: "es-UY",
     type: "lang",
     voices: [],
+    placeholder: "escribe tu texto aquí",
   },
   {
     key: "lang_es-VE",
@@ -1657,6 +1893,7 @@ const LanguagesData = [
     value: "es-VE",
     type: "lang",
     voices: [],
+    placeholder: "escribe tu texto aquí",
   },
   {
     key: "lang_et",
@@ -1664,6 +1901,7 @@ const LanguagesData = [
     value: "et",
     type: "lang",
     voices: [],
+    placeholder: "kirjuta oma tekst siia",
   },
   {
     key: "lang_et-EE",
@@ -1671,6 +1909,7 @@ const LanguagesData = [
     value: "et-EE",
     type: "lang",
     voices: [],
+    placeholder: "kirjuta oma tekst siia",
   },
   {
     key: "lang_eu",
@@ -1678,6 +1917,7 @@ const LanguagesData = [
     value: "eu",
     type: "lang",
     voices: [],
+    placeholder: "idatzi zure testua hemen",
   },
   {
     key: "lang_eu-ES",
@@ -1685,6 +1925,7 @@ const LanguagesData = [
     value: "eu-ES",
     type: "lang",
     voices: [],
+    placeholder: "idatzi zure testua hemen",
   },
   {
     key: "lang_ewo",
@@ -1692,6 +1933,7 @@ const LanguagesData = [
     value: "ewo",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_ewo-CM",
@@ -1699,6 +1941,7 @@ const LanguagesData = [
     value: "ewo-CM",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_fa",
@@ -1706,6 +1949,7 @@ const LanguagesData = [
     value: "fa",
     type: "lang",
     voices: [],
+    placeholder: "متن خود را اینجا بنویسید",
   },
   {
     key: "lang_fa-AF",
@@ -1713,6 +1957,7 @@ const LanguagesData = [
     value: "fa-AF",
     type: "lang",
     voices: [],
+    placeholder: "متن خود را اینجا بنویسید",
   },
   {
     key: "lang_fa-IR",
@@ -1720,6 +1965,7 @@ const LanguagesData = [
     value: "fa-IR",
     type: "lang",
     voices: [],
+    placeholder: "متن خود را اینجا بنویسیدext here",
   },
   {
     key: "lang_ff",
@@ -1727,6 +1973,7 @@ const LanguagesData = [
     value: "ff",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_ff-SN",
@@ -1734,6 +1981,7 @@ const LanguagesData = [
     value: "ff-SN",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_fi",
@@ -1741,6 +1989,7 @@ const LanguagesData = [
     value: "fi",
     type: "lang",
     voices: [],
+    placeholder: "kirjoita tekstisi tähän",
   },
   {
     key: "lang_fi-FI",
@@ -1748,6 +1997,7 @@ const LanguagesData = [
     value: "fi-FI",
     type: "lang",
     voices: [],
+    placeholder: "kirjoita tekstisi tähän",
   },
   {
     key: "lang_fil",
@@ -1755,6 +2005,7 @@ const LanguagesData = [
     value: "fil",
     type: "lang",
     voices: [],
+    placeholder: "isulat ang iyong text dito",
   },
   {
     key: "lang_fil-PH",
@@ -1762,6 +2013,7 @@ const LanguagesData = [
     value: "fil-PH",
     type: "lang",
     voices: [],
+    placeholder: "isulat ang iyong text dito",
   },
   {
     key: "lang_fo",
@@ -1769,6 +2021,7 @@ const LanguagesData = [
     value: "fo",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_fo-FO",
@@ -1776,6 +2029,7 @@ const LanguagesData = [
     value: "fo-FO",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_fr",
@@ -1783,6 +2037,7 @@ const LanguagesData = [
     value: "fr",
     type: "lang",
     voices: [],
+    placeholder: "écrivez votre texte ici",
   },
   {
     key: "lang_fr-BE",
@@ -1790,6 +2045,7 @@ const LanguagesData = [
     value: "fr-BE",
     type: "lang",
     voices: [],
+    placeholder: "écrivez votre texte iciwrite your text here",
   },
   {
     key: "lang_fr-BF",
@@ -1797,6 +2053,7 @@ const LanguagesData = [
     value: "fr-BF",
     type: "lang",
     voices: [],
+    placeholder: "écrivez votre texte ici",
   },
   {
     key: "lang_fr-BI",
@@ -1804,6 +2061,7 @@ const LanguagesData = [
     value: "fr-BI",
     type: "lang",
     voices: [],
+    placeholder: "écrivez votre texte ici",
   },
   {
     key: "lang_fr-BJ",
@@ -1811,6 +2069,7 @@ const LanguagesData = [
     value: "fr-BJ",
     type: "lang",
     voices: [],
+    placeholder: "écrivez votre texte ici",
   },
   {
     key: "lang_fr-BL",
@@ -1818,6 +2077,7 @@ const LanguagesData = [
     value: "fr-BL",
     type: "lang",
     voices: [],
+    placeholder: "écrivez votre texte ici",
   },
   {
     key: "lang_fr-CA",
@@ -1825,6 +2085,7 @@ const LanguagesData = [
     value: "fr-CA",
     type: "lang",
     voices: [],
+    placeholder: "écrivez votre texte ici",
   },
   {
     key: "lang_fr-CD",
@@ -1832,6 +2093,7 @@ const LanguagesData = [
     value: "fr-CD",
     type: "lang",
     voices: [],
+    placeholder: "écrivez votre texte ici",
   },
   {
     key: "lang_fr-CF",
@@ -1839,6 +2101,7 @@ const LanguagesData = [
     value: "fr-CF",
     type: "lang",
     voices: [],
+    placeholder: "écrivez votre texte ici",
   },
   {
     key: "lang_fr-CG",
@@ -1846,6 +2109,7 @@ const LanguagesData = [
     value: "fr-CG",
     type: "lang",
     voices: [],
+    placeholder: "écrivez votre texte ici",
   },
   {
     key: "lang_fr-CH",
@@ -1853,6 +2117,7 @@ const LanguagesData = [
     value: "fr-CH",
     type: "lang",
     voices: [],
+    placeholder: "écrivez votre texte ici",
   },
   {
     key: "lang_fr-CI",
@@ -1860,6 +2125,7 @@ const LanguagesData = [
     value: "fr-CI",
     type: "lang",
     voices: [],
+    placeholder: "écrivez votre texte ici",
   },
   {
     key: "lang_fr-CM",
@@ -1867,6 +2133,7 @@ const LanguagesData = [
     value: "fr-CM",
     type: "lang",
     voices: [],
+    placeholder: "écrivez votre texte ici",
   },
   {
     key: "lang_fr-DJ",
@@ -1874,6 +2141,7 @@ const LanguagesData = [
     value: "fr-DJ",
     type: "lang",
     voices: [],
+    placeholder: "écrivez votre texte ici",
   },
   {
     key: "lang_fr-DZ",
@@ -1881,6 +2149,7 @@ const LanguagesData = [
     value: "fr-DZ",
     type: "lang",
     voices: [],
+    placeholder: "écrivez votre texte ici",
   },
   {
     key: "lang_fr-FR",
@@ -1888,6 +2157,7 @@ const LanguagesData = [
     value: "fr-FR",
     type: "lang",
     voices: [],
+    placeholder: "écrivez votre texte ici",
   },
   {
     key: "lang_fr-GA",
@@ -1895,6 +2165,7 @@ const LanguagesData = [
     value: "fr-GA",
     type: "lang",
     voices: [],
+    placeholder: "écrivez votre texte ici",
   },
   {
     key: "lang_fr-GF",
@@ -1902,6 +2173,7 @@ const LanguagesData = [
     value: "fr-GF",
     type: "lang",
     voices: [],
+    placeholder: "écrivez votre texte ici",
   },
   {
     key: "lang_fr-GN",
@@ -1909,6 +2181,7 @@ const LanguagesData = [
     value: "fr-GN",
     type: "lang",
     voices: [],
+    placeholder: "écrivez votre texte ici",
   },
   {
     key: "lang_fr-GP",
@@ -1916,6 +2189,7 @@ const LanguagesData = [
     value: "fr-GP",
     type: "lang",
     voices: [],
+    placeholder: "écrivez votre texte ici",
   },
   {
     key: "lang_fr-GQ",
@@ -1923,6 +2197,7 @@ const LanguagesData = [
     value: "fr-GQ",
     type: "lang",
     voices: [],
+    placeholder: "écrivez votre texte ici",
   },
   {
     key: "lang_fr-HT",
@@ -1930,6 +2205,7 @@ const LanguagesData = [
     value: "fr-HT",
     type: "lang",
     voices: [],
+    placeholder: "écrivez votre texte ici",
   },
   {
     key: "lang_fr-KM",
@@ -1937,6 +2213,7 @@ const LanguagesData = [
     value: "fr-KM",
     type: "lang",
     voices: [],
+    placeholder: "écrivez votre texte ici",
   },
   {
     key: "lang_fr-LU",
@@ -1944,6 +2221,7 @@ const LanguagesData = [
     value: "fr-LU",
     type: "lang",
     voices: [],
+    placeholder: "écrivez votre texte ici",
   },
   {
     key: "lang_fr-MA",
@@ -1951,6 +2229,7 @@ const LanguagesData = [
     value: "fr-MA",
     type: "lang",
     voices: [],
+    placeholder: "écrivez votre texte ici",
   },
   {
     key: "lang_fr-MC",
@@ -1958,6 +2237,7 @@ const LanguagesData = [
     value: "fr-MC",
     type: "lang",
     voices: [],
+    placeholder: "écrivez votre texte ici",
   },
   {
     key: "lang_fr-MF",
@@ -1965,6 +2245,7 @@ const LanguagesData = [
     value: "fr-MF",
     type: "lang",
     voices: [],
+    placeholder: "écrivez votre texte ici",
   },
   {
     key: "lang_fr-MG",
@@ -1972,6 +2253,7 @@ const LanguagesData = [
     value: "fr-MG",
     type: "lang",
     voices: [],
+    placeholder: "écrivez votre texte ici",
   },
   {
     key: "lang_fr-ML",
@@ -1979,6 +2261,7 @@ const LanguagesData = [
     value: "fr-ML",
     type: "lang",
     voices: [],
+    placeholder: "écrivez votre texte ici",
   },
   {
     key: "lang_fr-MQ",
@@ -1986,6 +2269,7 @@ const LanguagesData = [
     value: "fr-MQ",
     type: "lang",
     voices: [],
+    placeholder: "écrivez votre texte ici",
   },
   {
     key: "lang_fr-MR",
@@ -1993,6 +2277,7 @@ const LanguagesData = [
     value: "fr-MR",
     type: "lang",
     voices: [],
+    placeholder: "écrivez votre texte ici",
   },
   {
     key: "lang_fr-MU",
@@ -2000,6 +2285,7 @@ const LanguagesData = [
     value: "fr-MU",
     type: "lang",
     voices: [],
+    placeholder: "écrivez votre texte ici",
   },
   {
     key: "lang_fr-NC",
@@ -2007,6 +2293,7 @@ const LanguagesData = [
     value: "fr-NC",
     type: "lang",
     voices: [],
+    placeholder: "écrivez votre texte ici",
   },
   {
     key: "lang_fr-NE",
@@ -2014,6 +2301,7 @@ const LanguagesData = [
     value: "fr-NE",
     type: "lang",
     voices: [],
+    placeholder: "écrivez votre texte ici",
   },
   {
     key: "lang_fr-PF",
@@ -2021,6 +2309,7 @@ const LanguagesData = [
     value: "fr-PF",
     type: "lang",
     voices: [],
+    placeholder: "écrivez votre texte ici",
   },
   {
     key: "lang_fr-PM",
@@ -2028,6 +2317,7 @@ const LanguagesData = [
     value: "fr-PM",
     type: "lang",
     voices: [],
+    placeholder: "écrivez votre texte ici",
   },
   {
     key: "lang_fr-RE",
@@ -2035,6 +2325,7 @@ const LanguagesData = [
     value: "fr-RE",
     type: "lang",
     voices: [],
+    placeholder: "écrivez votre texte ici",
   },
   {
     key: "lang_fr-RW",
@@ -2042,6 +2333,7 @@ const LanguagesData = [
     value: "fr-RW",
     type: "lang",
     voices: [],
+    placeholder: "écrivez votre texte ici",
   },
   {
     key: "lang_fr-SC",
@@ -2049,6 +2341,7 @@ const LanguagesData = [
     value: "fr-SC",
     type: "lang",
     voices: [],
+    placeholder: "écrivez votre texte ici",
   },
   {
     key: "lang_fr-SN",
@@ -2056,6 +2349,7 @@ const LanguagesData = [
     value: "fr-SN",
     type: "lang",
     voices: [],
+    placeholder: "écrivez votre texte ici",
   },
   {
     key: "lang_fr-SY",
@@ -2063,6 +2357,7 @@ const LanguagesData = [
     value: "fr-SY",
     type: "lang",
     voices: [],
+    placeholder: "écrivez votre texte ici",
   },
   {
     key: "lang_fr-TD",
@@ -2070,6 +2365,7 @@ const LanguagesData = [
     value: "fr-TD",
     type: "lang",
     voices: [],
+    placeholder: "écrivez votre texte ici",
   },
   {
     key: "lang_fr-TG",
@@ -2077,6 +2373,7 @@ const LanguagesData = [
     value: "fr-TG",
     type: "lang",
     voices: [],
+    placeholder: "écrivez votre texte ici",
   },
   {
     key: "lang_fr-TN",
@@ -2084,6 +2381,7 @@ const LanguagesData = [
     value: "fr-TN",
     type: "lang",
     voices: [],
+    placeholder: "écrivez votre texte ici",
   },
   {
     key: "lang_fr-VU",
@@ -2091,6 +2389,7 @@ const LanguagesData = [
     value: "fr-VU",
     type: "lang",
     voices: [],
+    placeholder: "écrivez votre texte ici",
   },
   {
     key: "lang_fr-WF",
@@ -2098,6 +2397,7 @@ const LanguagesData = [
     value: "fr-WF",
     type: "lang",
     voices: [],
+    placeholder: "écrivez votre texte ici",
   },
   {
     key: "lang_fr-YT",
@@ -2105,6 +2405,7 @@ const LanguagesData = [
     value: "fr-YT",
     type: "lang",
     voices: [],
+    placeholder: "écrivez votre texte ici",
   },
   {
     key: "lang_ga",
@@ -2112,6 +2413,7 @@ const LanguagesData = [
     value: "ga",
     type: "lang",
     voices: [],
+    placeholder: "scríobh do théacs anseo",
   },
   {
     key: "lang_ga-IE",
@@ -2119,6 +2421,7 @@ const LanguagesData = [
     value: "ga-IE",
     type: "lang",
     voices: [],
+    placeholder: "scríobh do théacs anseo",
   },
   {
     key: "lang_gl",
@@ -2126,6 +2429,7 @@ const LanguagesData = [
     value: "gl",
     type: "lang",
     voices: [],
+    placeholder: "escribe aquí o teu texto",
   },
   {
     key: "lang_gl-ES",
@@ -2133,6 +2437,7 @@ const LanguagesData = [
     value: "gl-ES",
     type: "lang",
     voices: [],
+    placeholder: "escribe aquí o teu texto",
   },
   {
     key: "lang_gsw",
@@ -2140,6 +2445,7 @@ const LanguagesData = [
     value: "gsw",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_gsw-CH",
@@ -2147,6 +2453,7 @@ const LanguagesData = [
     value: "gsw-CH",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_gsw-LI",
@@ -2154,6 +2461,7 @@ const LanguagesData = [
     value: "gsw-LI",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_gu",
@@ -2161,6 +2469,7 @@ const LanguagesData = [
     value: "gu",
     type: "lang",
     voices: [],
+    placeholder: "તમારું લખાણ અહીં લખો",
   },
   {
     key: "lang_gu-IN",
@@ -2168,6 +2477,7 @@ const LanguagesData = [
     value: "gu-IN",
     type: "lang",
     voices: [],
+    placeholder: "તમારું લખાણ અહીં લખો",
   },
   {
     key: "lang_guz",
@@ -2175,6 +2485,7 @@ const LanguagesData = [
     value: "guz",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_guz-KE",
@@ -2182,6 +2493,7 @@ const LanguagesData = [
     value: "guz-KE",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_gv",
@@ -2189,6 +2501,7 @@ const LanguagesData = [
     value: "gv",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_gv-IM",
@@ -2196,6 +2509,7 @@ const LanguagesData = [
     value: "gv-IM",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_ha",
@@ -2203,6 +2517,7 @@ const LanguagesData = [
     value: "ha",
     type: "lang",
     voices: [],
+    placeholder: "rubuta rubutun ku anan",
   },
   {
     key: "lang_ha",
@@ -2210,6 +2525,7 @@ const LanguagesData = [
     value: "ha",
     type: "lang",
     voices: [],
+    placeholder: "rubuta rubutun ku anan",
   },
   {
     key: "lang_ha-GH",
@@ -2217,6 +2533,7 @@ const LanguagesData = [
     value: "ha-GH",
     type: "lang",
     voices: [],
+    placeholder: "rubuta rubutun ku anan",
   },
   {
     key: "lang_ha-NE",
@@ -2224,6 +2541,7 @@ const LanguagesData = [
     value: "ha-NE",
     type: "lang",
     voices: [],
+    placeholder: "rubuta rubutun ku anan",
   },
   {
     key: "lang_ha-NG",
@@ -2231,6 +2549,7 @@ const LanguagesData = [
     value: "ha-NG",
     type: "lang",
     voices: [],
+    placeholder: "rubuta rubutun ku anan",
   },
   {
     key: "lang_haw",
@@ -2238,6 +2557,7 @@ const LanguagesData = [
     value: "haw",
     type: "lang",
     voices: [],
+    placeholder: "e kākau i kāu kikokikona ma ʻaneʻi",
   },
   {
     key: "lang_haw-US",
@@ -2245,6 +2565,7 @@ const LanguagesData = [
     value: "haw-US",
     type: "lang",
     voices: [],
+    placeholder: "e kākau i kāu kikokikona ma ʻaneʻi",
   },
   {
     key: "lang_iw",
@@ -2252,6 +2573,7 @@ const LanguagesData = [
     value: "iw",
     type: "lang",
     voices: [],
+    placeholder: "כתוב את הטקסט שלך כאן",
   },
   {
     key: "lang_iw-IL",
@@ -2259,6 +2581,7 @@ const LanguagesData = [
     value: "iw-IL",
     type: "lang",
     voices: [],
+    placeholder: "כתוב את הטקסט שלך כאןour text here",
   },
   {
     key: "lang_hi",
@@ -2266,6 +2589,7 @@ const LanguagesData = [
     value: "hi",
     type: "lang",
     voices: [],
+    placeholder: "अपना पाठ यहाँ लिखें",
   },
   {
     key: "lang_hi-IN",
@@ -2273,6 +2597,7 @@ const LanguagesData = [
     value: "hi-IN",
     type: "lang",
     voices: [],
+    placeholder: "अपना पाठ यहाँ लिखें",
   },
   {
     key: "lang_hr",
@@ -2280,6 +2605,7 @@ const LanguagesData = [
     value: "hr",
     type: "lang",
     voices: [],
+    placeholder: "napišite svoj tekst ovdje",
   },
   {
     key: "lang_hr-BA",
@@ -2287,6 +2613,7 @@ const LanguagesData = [
     value: "hr-BA",
     type: "lang",
     voices: [],
+    placeholder: "napišite svoj tekst ovdje",
   },
   {
     key: "lang_hr-HR",
@@ -2294,6 +2621,7 @@ const LanguagesData = [
     value: "hr-HR",
     type: "lang",
     voices: [],
+    placeholder: "napišite svoj tekst ovdje",
   },
   {
     key: "lang_hu",
@@ -2301,6 +2629,7 @@ const LanguagesData = [
     value: "hu",
     type: "lang",
     voices: [],
+    placeholder: "írja ide a szövegét",
   },
   {
     key: "lang_hu-HU",
@@ -2308,6 +2637,7 @@ const LanguagesData = [
     value: "hu-HU",
     type: "lang",
     voices: [],
+    placeholder: "írja ide a szövegét",
   },
   {
     key: "lang_hy",
@@ -2315,6 +2645,7 @@ const LanguagesData = [
     value: "hy",
     type: "lang",
     voices: [],
+    placeholder: "գրեք ձեր տեքստը այստեղ",
   },
   {
     key: "lang_hy-AM",
@@ -2322,6 +2653,7 @@ const LanguagesData = [
     value: "hy-AM",
     type: "lang",
     voices: [],
+    placeholder: "գրեք ձեր տեքստը այստեղ",
   },
   {
     key: "lang_in",
@@ -2329,6 +2661,7 @@ const LanguagesData = [
     value: "in",
     type: "lang",
     voices: [],
+    placeholder: "tulis teksmu disini",
   },
   {
     key: "lang_in-ID",
@@ -2336,6 +2669,7 @@ const LanguagesData = [
     value: "in-ID",
     type: "lang",
     voices: [],
+    placeholder: "tulis teksmu disini",
   },
   {
     key: "lang_ig",
@@ -2343,6 +2677,7 @@ const LanguagesData = [
     value: "ig",
     type: "lang",
     voices: [],
+    placeholder: "dee ederede gi ebe a",
   },
   {
     key: "lang_ig-NG",
@@ -2350,6 +2685,7 @@ const LanguagesData = [
     value: "ig-NG",
     type: "lang",
     voices: [],
+    placeholder: "dee ederede gi ebe a",
   },
   {
     key: "lang_ii",
@@ -2357,6 +2693,7 @@ const LanguagesData = [
     value: "ii",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_ii-CN",
@@ -2364,6 +2701,7 @@ const LanguagesData = [
     value: "ii-CN",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_is",
@@ -2371,6 +2709,7 @@ const LanguagesData = [
     value: "is",
     type: "lang",
     voices: [],
+    placeholder: "skrifaðu textann þinn hér",
   },
   {
     key: "lang_is-IS",
@@ -2378,6 +2717,7 @@ const LanguagesData = [
     value: "is-IS",
     type: "lang",
     voices: [],
+    placeholder: "skrifaðu textann þinn hér",
   },
   {
     key: "lang_it",
@@ -2385,6 +2725,7 @@ const LanguagesData = [
     value: "it",
     type: "lang",
     voices: [],
+    placeholder: "scrivi qui il tuo testo",
   },
   {
     key: "lang_it-CH",
@@ -2392,6 +2733,7 @@ const LanguagesData = [
     value: "it-CH",
     type: "lang",
     voices: [],
+    placeholder: "scrivi qui il tuo testo",
   },
   {
     key: "lang_it-IT",
@@ -2399,6 +2741,7 @@ const LanguagesData = [
     value: "it-IT",
     type: "lang",
     voices: [],
+    placeholder: "scrivi qui il tuo testo",
   },
   {
     key: "lang_it-SM",
@@ -2406,6 +2749,7 @@ const LanguagesData = [
     value: "it-SM",
     type: "lang",
     voices: [],
+    placeholder: "scrivi qui il tuo testo",
   },
   {
     key: "lang_ja",
@@ -2413,6 +2757,7 @@ const LanguagesData = [
     value: "ja",
     type: "lang",
     voices: [],
+    placeholder: "ここにあなたのテキストを書いてください",
   },
   {
     key: "lang_ja-JP",
@@ -2420,6 +2765,7 @@ const LanguagesData = [
     value: "ja-JP",
     type: "lang",
     voices: [],
+    placeholder: "ここにあなたのテキストを書いてください",
   },
   {
     key: "lang_jgo",
@@ -2427,6 +2773,7 @@ const LanguagesData = [
     value: "jgo",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_jgo-CM",
@@ -2434,6 +2781,7 @@ const LanguagesData = [
     value: "jgo-CM",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_kk-KZ",
@@ -2441,6 +2789,7 @@ const LanguagesData = [
     value: "kk-KZ",
     type: "lang",
     voices: [],
+    placeholder: "мәтініңізді осында жазыңыз",
   },
   {
     key: "lang_kkj",
@@ -2448,6 +2797,7 @@ const LanguagesData = [
     value: "kkj",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_kkj-CM",
@@ -2455,6 +2805,7 @@ const LanguagesData = [
     value: "kkj-CM",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_kl",
@@ -2462,6 +2813,7 @@ const LanguagesData = [
     value: "kl",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_kl-GL",
@@ -2469,6 +2821,7 @@ const LanguagesData = [
     value: "kl-GL",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_kln",
@@ -2476,6 +2829,7 @@ const LanguagesData = [
     value: "kln",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_kln-KE",
@@ -2483,6 +2837,7 @@ const LanguagesData = [
     value: "kln-KE",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_km",
@@ -2490,6 +2845,7 @@ const LanguagesData = [
     value: "km",
     type: "lang",
     voices: [],
+    placeholder: "សរសេរអត្ថបទរបស់អ្នកនៅទីនេះ",
   },
   {
     key: "lang_km-KH",
@@ -2497,6 +2853,7 @@ const LanguagesData = [
     value: "km-KH",
     type: "lang",
     voices: [],
+    placeholder: "សរសេរអត្ថបទរបស់អ្នកនៅទីនេះ",
   },
   {
     key: "lang_kn",
@@ -2504,6 +2861,7 @@ const LanguagesData = [
     value: "kn",
     type: "lang",
     voices: [],
+    placeholder: "ನಿಮ್ಮ ಪಠ್ಯವನ್ನು ಇಲ್ಲಿ ಬರೆಯಿರಿ",
   },
   {
     key: "lang_kn-IN",
@@ -2511,6 +2869,7 @@ const LanguagesData = [
     value: "kn-IN",
     type: "lang",
     voices: [],
+    placeholder: "ನಿಮ್ಮ ಪಠ್ಯವನ್ನು ಇಲ್ಲಿ ಬರೆಯಿರಿ",
   },
   {
     key: "lang_ko",
@@ -2518,6 +2877,7 @@ const LanguagesData = [
     value: "ko",
     type: "lang",
     voices: [],
+    placeholder: "여기에 텍스트를 작성하십시오",
   },
   {
     key: "lang_ko-KP",
@@ -2525,6 +2885,7 @@ const LanguagesData = [
     value: "ko-KP",
     type: "lang",
     voices: [],
+    placeholder: "여기에 텍스트를 작성하십시오",
   },
   {
     key: "lang_ko-KR",
@@ -2532,6 +2893,7 @@ const LanguagesData = [
     value: "ko-KR",
     type: "lang",
     voices: [],
+    placeholder: "여기에 텍스트를 작성하십시오",
   },
   {
     key: "lang_kok",
@@ -2539,6 +2901,7 @@ const LanguagesData = [
     value: "kok",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_kok-IN",
@@ -2546,6 +2909,7 @@ const LanguagesData = [
     value: "kok-IN",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_ks",
@@ -2553,6 +2917,7 @@ const LanguagesData = [
     value: "ks",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_ks",
@@ -2560,6 +2925,7 @@ const LanguagesData = [
     value: "ks",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_ks-IN",
@@ -2567,6 +2933,7 @@ const LanguagesData = [
     value: "ks-IN",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_ksb",
@@ -2574,6 +2941,7 @@ const LanguagesData = [
     value: "ksb",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_ksb-TZ",
@@ -2581,6 +2949,7 @@ const LanguagesData = [
     value: "ksb-TZ",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_ksf",
@@ -2588,6 +2957,7 @@ const LanguagesData = [
     value: "ksf",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_ksf-CM",
@@ -2595,6 +2965,7 @@ const LanguagesData = [
     value: "ksf-CM",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_kw",
@@ -2602,6 +2973,7 @@ const LanguagesData = [
     value: "kw",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_kw-GB",
@@ -2609,6 +2981,7 @@ const LanguagesData = [
     value: "kw-GB",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_ky",
@@ -2616,6 +2989,7 @@ const LanguagesData = [
     value: "ky",
     type: "lang",
     voices: [],
+    placeholder: "текстиңизди бул жерге жазыңыз",
   },
   {
     key: "lang_ky",
@@ -2623,6 +2997,7 @@ const LanguagesData = [
     value: "ky",
     type: "lang",
     voices: [],
+    placeholder: "текстиңизди бул жерге жазыңыз",
   },
   {
     key: "lang_ky-KG",
@@ -2630,6 +3005,7 @@ const LanguagesData = [
     value: "ky-KG",
     type: "lang",
     voices: [],
+    placeholder: "текстиңизди бул жерге жазыңыз",
   },
   {
     key: "lang_lag",
@@ -2637,6 +3013,7 @@ const LanguagesData = [
     value: "lag",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_lag-TZ",
@@ -2644,6 +3021,7 @@ const LanguagesData = [
     value: "lag-TZ",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_lg",
@@ -2651,6 +3029,7 @@ const LanguagesData = [
     value: "lg",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_lg-UG",
@@ -2658,6 +3037,7 @@ const LanguagesData = [
     value: "lg-UG",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_lkt",
@@ -2665,6 +3045,7 @@ const LanguagesData = [
     value: "lkt",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_lkt-US",
@@ -2672,6 +3053,7 @@ const LanguagesData = [
     value: "lkt-US",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_ln",
@@ -2679,6 +3061,7 @@ const LanguagesData = [
     value: "ln",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_ln-AO",
@@ -2686,6 +3069,7 @@ const LanguagesData = [
     value: "ln-AO",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_ln-CD",
@@ -2693,6 +3077,7 @@ const LanguagesData = [
     value: "ln-CD",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_ln-CF",
@@ -2700,6 +3085,7 @@ const LanguagesData = [
     value: "ln-CF",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_ln-CG",
@@ -2707,6 +3093,7 @@ const LanguagesData = [
     value: "ln-CG",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_lo",
@@ -2714,6 +3101,7 @@ const LanguagesData = [
     value: "lo",
     type: "lang",
     voices: [],
+    placeholder: "ຂຽນຂໍ້ຄວາມຂອງເຈົ້າຢູ່ທີ່ນີ້",
   },
   {
     key: "lang_lo-LA",
@@ -2721,6 +3109,7 @@ const LanguagesData = [
     value: "lo-LA",
     type: "lang",
     voices: [],
+    placeholder: "ຂຽນຂໍ້ຄວາມຂອງເຈົ້າຢູ່ທີ່ນີ້",
   },
   {
     key: "lang_lt",
@@ -2728,6 +3117,7 @@ const LanguagesData = [
     value: "lt",
     type: "lang",
     voices: [],
+    placeholder: "parašyk savo tekstą čia",
   },
   {
     key: "lang_lt-LT",
@@ -2735,6 +3125,7 @@ const LanguagesData = [
     value: "lt-LT",
     type: "lang",
     voices: [],
+    placeholder: "parašyk savo tekstą čia",
   },
   {
     key: "lang_lu",
@@ -2742,6 +3133,7 @@ const LanguagesData = [
     value: "lu",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_lu-CD",
@@ -2749,6 +3141,7 @@ const LanguagesData = [
     value: "lu-CD",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_luo",
@@ -2756,6 +3149,7 @@ const LanguagesData = [
     value: "luo",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_luo-KE",
@@ -2763,6 +3157,7 @@ const LanguagesData = [
     value: "luo-KE",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_luy",
@@ -2770,6 +3165,7 @@ const LanguagesData = [
     value: "luy",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_luy-KE",
@@ -2777,6 +3173,7 @@ const LanguagesData = [
     value: "luy-KE",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_lv",
@@ -2784,6 +3181,7 @@ const LanguagesData = [
     value: "lv",
     type: "lang",
     voices: [],
+    placeholder: "uzraksti savu tekstu šeit",
   },
   {
     key: "lang_lv-LV",
@@ -2791,6 +3189,7 @@ const LanguagesData = [
     value: "lv-LV",
     type: "lang",
     voices: [],
+    placeholder: "uzraksti savu tekstu šeit",
   },
   {
     key: "lang_mas",
@@ -2798,6 +3197,7 @@ const LanguagesData = [
     value: "mas",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_mas-KE",
@@ -2805,6 +3205,7 @@ const LanguagesData = [
     value: "mas-KE",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_mas-TZ",
@@ -2812,6 +3213,7 @@ const LanguagesData = [
     value: "mas-TZ",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_mer",
@@ -2819,6 +3221,7 @@ const LanguagesData = [
     value: "mer",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_mer-KE",
@@ -2826,6 +3229,7 @@ const LanguagesData = [
     value: "mer-KE",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_mfe",
@@ -2833,6 +3237,7 @@ const LanguagesData = [
     value: "mfe",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_mfe-MU",
@@ -2840,6 +3245,7 @@ const LanguagesData = [
     value: "mfe-MU",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_mg",
@@ -2847,6 +3253,7 @@ const LanguagesData = [
     value: "mg",
     type: "lang",
     voices: [],
+    placeholder: "soraty eto ny lahatsoratrao",
   },
   {
     key: "lang_mg-MG",
@@ -2854,6 +3261,7 @@ const LanguagesData = [
     value: "mg-MG",
     type: "lang",
     voices: [],
+    placeholder: "soraty eto ny lahatsoratrao",
   },
   {
     key: "lang_mgh",
@@ -2861,6 +3269,7 @@ const LanguagesData = [
     value: "mgh",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_mgh-MZ",
@@ -2868,6 +3277,7 @@ const LanguagesData = [
     value: "mgh-MZ",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_mgo",
@@ -2875,6 +3285,7 @@ const LanguagesData = [
     value: "mgo",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_mgo-CM",
@@ -2882,6 +3293,7 @@ const LanguagesData = [
     value: "mgo-CM",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_mk",
@@ -2889,6 +3301,7 @@ const LanguagesData = [
     value: "mk",
     type: "lang",
     voices: [],
+    placeholder: "напишете го вашиот текст овде",
   },
   {
     key: "lang_mk-MK",
@@ -2896,6 +3309,7 @@ const LanguagesData = [
     value: "mk-MK",
     type: "lang",
     voices: [],
+    placeholder: "напишете го вашиот текст овде",
   },
   {
     key: "lang_ml",
@@ -2903,6 +3317,7 @@ const LanguagesData = [
     value: "ml",
     type: "lang",
     voices: [],
+    placeholder: "നിങ്ങളുടെ വാചകം ഇവിടെ എഴുതുക",
   },
   {
     key: "lang_ml-IN",
@@ -2910,6 +3325,7 @@ const LanguagesData = [
     value: "ml-IN",
     type: "lang",
     voices: [],
+    placeholder: "നിങ്ങളുടെ വാചകം ഇവിടെ എഴുതുക",
   },
   {
     key: "lang_mn",
@@ -2917,6 +3333,7 @@ const LanguagesData = [
     value: "mn",
     type: "lang",
     voices: [],
+    placeholder: "текстээ энд бичнэ үү",
   },
   {
     key: "lang_mn",
@@ -2924,6 +3341,7 @@ const LanguagesData = [
     value: "mn",
     type: "lang",
     voices: [],
+    placeholder: "текстээ энд бичнэ үү",
   },
   {
     key: "lang_mn-MN",
@@ -2931,6 +3349,7 @@ const LanguagesData = [
     value: "mn-MN",
     type: "lang",
     voices: [],
+    placeholder: "текстээ энд бичнэ үү",
   },
   {
     key: "lang_mr",
@@ -2938,6 +3357,7 @@ const LanguagesData = [
     value: "mr",
     type: "lang",
     voices: [],
+    placeholder: "तुमचा मजकूर येथे लिहा",
   },
   {
     key: "lang_mr-IN",
@@ -2945,6 +3365,7 @@ const LanguagesData = [
     value: "mr-IN",
     type: "lang",
     voices: [],
+    placeholder: "तुमचा मजकूर येथे लिहा",
   },
   {
     key: "lang_ms",
@@ -2952,6 +3373,7 @@ const LanguagesData = [
     value: "ms",
     type: "lang",
     voices: [],
+    placeholder: "tulis teks anda di sini",
   },
   {
     key: "lang_ms",
@@ -2959,6 +3381,7 @@ const LanguagesData = [
     value: "ms",
     type: "lang",
     voices: [],
+    placeholder: "tulis teks anda di sini",
   },
   {
     key: "lang_ms-BN",
@@ -2966,6 +3389,7 @@ const LanguagesData = [
     value: "ms-BN",
     type: "lang",
     voices: [],
+    placeholder: "tulis teks anda di sini",
   },
   {
     key: "lang_ms-MY",
@@ -2973,6 +3397,7 @@ const LanguagesData = [
     value: "ms-MY",
     type: "lang",
     voices: [],
+    placeholder: "tulis teks anda di sini",
   },
   {
     key: "lang_ms-SG",
@@ -2980,6 +3405,7 @@ const LanguagesData = [
     value: "ms-SG",
     type: "lang",
     voices: [],
+    placeholder: "tulis teks anda di sini",
   },
   {
     key: "lang_mt",
@@ -2987,6 +3413,7 @@ const LanguagesData = [
     value: "mt",
     type: "lang",
     voices: [],
+    placeholder: "ikteb it-test tiegħek hawn",
   },
   {
     key: "lang_mt-MT",
@@ -2994,6 +3421,7 @@ const LanguagesData = [
     value: "mt-MT",
     type: "lang",
     voices: [],
+    placeholder: "ikteb it-test tiegħek hawn",
   },
   {
     key: "lang_mua",
@@ -3001,6 +3429,7 @@ const LanguagesData = [
     value: "mua",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_mua-CM",
@@ -3008,6 +3437,7 @@ const LanguagesData = [
     value: "mua-CM",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_my",
@@ -3015,6 +3445,7 @@ const LanguagesData = [
     value: "my",
     type: "lang",
     voices: [],
+    placeholder: "သင့်စာသားကို ဤနေရာတွင် ရေးပါ။",
   },
   {
     key: "lang_my-MM",
@@ -3022,6 +3453,7 @@ const LanguagesData = [
     value: "my-MM",
     type: "lang",
     voices: [],
+    placeholder: "သင့်စာသားကို ဤနေရာတွင် ရေးပါ။",
   },
   {
     key: "lang_naq",
@@ -3029,6 +3461,7 @@ const LanguagesData = [
     value: "naq",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_naq-NA",
@@ -3036,6 +3469,7 @@ const LanguagesData = [
     value: "naq-NA",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_nb",
@@ -3043,6 +3477,7 @@ const LanguagesData = [
     value: "nb",
     type: "lang",
     voices: [],
+    placeholder: "skriv teksten din her",
   },
   {
     key: "lang_nb-NO",
@@ -3050,6 +3485,7 @@ const LanguagesData = [
     value: "nb-NO",
     type: "lang",
     voices: [],
+    placeholder: "skriv teksten din her",
   },
   {
     key: "lang_nb-SJ",
@@ -3057,6 +3493,7 @@ const LanguagesData = [
     value: "nb-SJ",
     type: "lang",
     voices: [],
+    placeholder: "skriv teksten din her",
   },
   {
     key: "lang_nd",
@@ -3064,6 +3501,7 @@ const LanguagesData = [
     value: "nd",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_nd-ZW",
@@ -3071,6 +3509,7 @@ const LanguagesData = [
     value: "nd-ZW",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_ne",
@@ -3078,6 +3517,7 @@ const LanguagesData = [
     value: "ne",
     type: "lang",
     voices: [],
+    placeholder: "आफ्नो पाठ यहाँ लेख्नुहोस्",
   },
   {
     key: "lang_ne-IN",
@@ -3085,6 +3525,7 @@ const LanguagesData = [
     value: "ne-IN",
     type: "lang",
     voices: [],
+    placeholder: "आफ्नो पाठ यहाँ लेख्नुहोस्",
   },
   {
     key: "lang_ne-NP",
@@ -3092,6 +3533,7 @@ const LanguagesData = [
     value: "ne-NP",
     type: "lang",
     voices: [],
+    placeholder: "आफ्नो पाठ यहाँ लेख्नुहोस्",
   },
   {
     key: "lang_nl",
@@ -3099,6 +3541,7 @@ const LanguagesData = [
     value: "nl",
     type: "lang",
     voices: [],
+    placeholder: "schrijf hier je tekst",
   },
   {
     key: "lang_nl-AW",
@@ -3106,6 +3549,7 @@ const LanguagesData = [
     value: "nl-AW",
     type: "lang",
     voices: [],
+    placeholder: "schrijf hier je tekst",
   },
   {
     key: "lang_nl-BE",
@@ -3113,6 +3557,7 @@ const LanguagesData = [
     value: "nl-BE",
     type: "lang",
     voices: [],
+    placeholder: "schrijf hier je tekst",
   },
   {
     key: "lang_nl-BQ",
@@ -3120,6 +3565,7 @@ const LanguagesData = [
     value: "nl-BQ",
     type: "lang",
     voices: [],
+    placeholder: "schrijf hier je tekst",
   },
   {
     key: "lang_nl-CW",
@@ -3127,6 +3573,7 @@ const LanguagesData = [
     value: "nl-CW",
     type: "lang",
     voices: [],
+    placeholder: "schrijf hier je tekst",
   },
   {
     key: "lang_nl-NL",
@@ -3134,6 +3581,7 @@ const LanguagesData = [
     value: "nl-NL",
     type: "lang",
     voices: [],
+    placeholder: "schrijf hier je tekstwrite your text here",
   },
   {
     key: "lang_nl-SR",
@@ -3141,6 +3589,7 @@ const LanguagesData = [
     value: "nl-SR",
     type: "lang",
     voices: [],
+    placeholder: "schrijf hier je tekst",
   },
   {
     key: "lang_nl-SX",
@@ -3148,6 +3597,7 @@ const LanguagesData = [
     value: "nl-SX",
     type: "lang",
     voices: [],
+    placeholder: "schrijf hier je tekst",
   },
   {
     key: "lang_nmg",
@@ -3155,6 +3605,7 @@ const LanguagesData = [
     value: "nmg",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_nmg-CM",
@@ -3162,6 +3613,7 @@ const LanguagesData = [
     value: "nmg-CM",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_nn",
@@ -3169,6 +3621,7 @@ const LanguagesData = [
     value: "nn",
     type: "lang",
     voices: [],
+    placeholder: "skriv teksten din her",
   },
   {
     key: "lang_nn-NO",
@@ -3176,6 +3629,7 @@ const LanguagesData = [
     value: "nn-NO",
     type: "lang",
     voices: [],
+    placeholder: "skriv teksten din her",
   },
   {
     key: "lang_nnh",
@@ -3183,6 +3637,7 @@ const LanguagesData = [
     value: "nnh",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_nnh-CM",
@@ -3190,6 +3645,7 @@ const LanguagesData = [
     value: "nnh-CM",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_nus",
@@ -3197,6 +3653,7 @@ const LanguagesData = [
     value: "nus",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_nus-SD",
@@ -3204,6 +3661,7 @@ const LanguagesData = [
     value: "nus-SD",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_nyn",
@@ -3211,6 +3669,7 @@ const LanguagesData = [
     value: "nyn",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_nyn-UG",
@@ -3218,6 +3677,7 @@ const LanguagesData = [
     value: "nyn-UG",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_om",
@@ -3225,6 +3685,7 @@ const LanguagesData = [
     value: "om",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_om-ET",
@@ -3232,6 +3693,7 @@ const LanguagesData = [
     value: "om-ET",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_om-KE",
@@ -3239,6 +3701,7 @@ const LanguagesData = [
     value: "om-KE",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_or",
@@ -3246,6 +3709,7 @@ const LanguagesData = [
     value: "or",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_or-IN",
@@ -3253,6 +3717,7 @@ const LanguagesData = [
     value: "or-IN",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_pa",
@@ -3260,6 +3725,7 @@ const LanguagesData = [
     value: "pa",
     type: "lang",
     voices: [],
+    placeholder: "ਆਪਣਾ ਟੈਕਸਟ ਇੱਥੇ ਲਿਖੋ",
   },
   {
     key: "lang_pa",
@@ -3267,6 +3733,7 @@ const LanguagesData = [
     value: "pa",
     type: "lang",
     voices: [],
+    placeholder: "ਆਪਣਾ ਟੈਕਸਟ ਇੱਥੇ ਲਿਖੋ",
   },
   {
     key: "lang_pa-PK",
@@ -3274,6 +3741,7 @@ const LanguagesData = [
     value: "pa-PK",
     type: "lang",
     voices: [],
+    placeholder: "ਆਪਣਾ ਟੈਕਸਟ ਇੱਥੇ ਲਿਖੋ",
   },
   {
     key: "lang_pa",
@@ -3281,6 +3749,7 @@ const LanguagesData = [
     value: "pa",
     type: "lang",
     voices: [],
+    placeholder: "ਆਪਣਾ ਟੈਕਸਟ ਇੱਥੇ ਲਿਖੋ",
   },
   {
     key: "lang_pa-IN",
@@ -3288,6 +3757,7 @@ const LanguagesData = [
     value: "pa-IN",
     type: "lang",
     voices: [],
+    placeholder: "ਆਪਣਾ ਟੈਕਸਟ ਇੱਥੇ ਲਿਖੋ",
   },
   {
     key: "lang_pl",
@@ -3295,6 +3765,7 @@ const LanguagesData = [
     value: "pl",
     type: "lang",
     voices: [],
+    placeholder: "napisz tutaj swój tekst",
   },
   {
     key: "lang_pl-PL",
@@ -3302,6 +3773,7 @@ const LanguagesData = [
     value: "pl-PL",
     type: "lang",
     voices: [],
+    placeholder: "napisz tutaj swój tekst",
   },
   {
     key: "lang_ps",
@@ -3309,6 +3781,7 @@ const LanguagesData = [
     value: "ps",
     type: "lang",
     voices: [],
+    placeholder: "خپل متن دلته ولیکئ",
   },
   {
     key: "lang_ps-AF",
@@ -3316,6 +3789,7 @@ const LanguagesData = [
     value: "ps-AF",
     type: "lang",
     voices: [],
+    placeholder: "خپل متن دلته ولیکئ",
   },
   {
     key: "lang_pt",
@@ -3323,6 +3797,7 @@ const LanguagesData = [
     value: "pt",
     type: "lang",
     voices: [],
+    placeholder: "escreva seu texto aqui",
   },
   {
     key: "lang_pt-AO",
@@ -3330,6 +3805,7 @@ const LanguagesData = [
     value: "pt-AO",
     type: "lang",
     voices: [],
+    placeholder: "escreva seu texto aqui",
   },
   {
     key: "lang_pt-BR",
@@ -3337,6 +3813,7 @@ const LanguagesData = [
     value: "pt-BR",
     type: "lang",
     voices: [],
+    placeholder: "escreva seu texto aqui",
   },
   {
     key: "lang_pt-CV",
@@ -3344,6 +3821,7 @@ const LanguagesData = [
     value: "pt-CV",
     type: "lang",
     voices: [],
+    placeholder: "escreva seu texto aqui",
   },
   {
     key: "lang_pt-GW",
@@ -3351,6 +3829,7 @@ const LanguagesData = [
     value: "pt-GW",
     type: "lang",
     voices: [],
+    placeholder: "escreva seu texto aqui",
   },
   {
     key: "lang_pt-MO",
@@ -3358,6 +3837,7 @@ const LanguagesData = [
     value: "pt-MO",
     type: "lang",
     voices: [],
+    placeholder: "escreva seu texto aqui",
   },
   {
     key: "lang_pt-MZ",
@@ -3365,6 +3845,7 @@ const LanguagesData = [
     value: "pt-MZ",
     type: "lang",
     voices: [],
+    placeholder: "escreva seu texto aqui",
   },
   {
     key: "lang_pt-PT",
@@ -3372,6 +3853,7 @@ const LanguagesData = [
     value: "pt-PT",
     type: "lang",
     voices: [],
+    placeholder: "escreva seu texto aqui",
   },
   {
     key: "lang_pt-ST",
@@ -3379,6 +3861,7 @@ const LanguagesData = [
     value: "pt-ST",
     type: "lang",
     voices: [],
+    placeholder: "escreva seu texto aqui",
   },
   {
     key: "lang_pt-TL",
@@ -3386,6 +3869,7 @@ const LanguagesData = [
     value: "pt-TL",
     type: "lang",
     voices: [],
+    placeholder: "escreva seu texto aqui",
   },
   {
     key: "lang_rm",
@@ -3393,6 +3877,7 @@ const LanguagesData = [
     value: "rm",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_rm-CH",
@@ -3400,6 +3885,7 @@ const LanguagesData = [
     value: "rm-CH",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_rn",
@@ -3407,6 +3893,7 @@ const LanguagesData = [
     value: "rn",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_rn-BI",
@@ -3414,6 +3901,7 @@ const LanguagesData = [
     value: "rn-BI",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_ro",
@@ -3421,6 +3909,7 @@ const LanguagesData = [
     value: "ro",
     type: "lang",
     voices: [],
+    placeholder: "scrie-ți textul aici",
   },
   {
     key: "lang_ro-MD",
@@ -3428,6 +3917,7 @@ const LanguagesData = [
     value: "ro-MD",
     type: "lang",
     voices: [],
+    placeholder: "scrie-ți textul aici",
   },
   {
     key: "lang_ro-RO",
@@ -3435,6 +3925,7 @@ const LanguagesData = [
     value: "ro-RO",
     type: "lang",
     voices: [],
+    placeholder: "scrie-ți textul aici",
   },
   {
     key: "lang_rof",
@@ -3442,6 +3933,7 @@ const LanguagesData = [
     value: "rof",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_rof-TZ",
@@ -3449,6 +3941,7 @@ const LanguagesData = [
     value: "rof-TZ",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_ru",
@@ -3456,6 +3949,7 @@ const LanguagesData = [
     value: "ru",
     type: "lang",
     voices: [],
+    placeholder: "напишите свой текст здесь",
   },
   {
     key: "lang_ru-BY",
@@ -3463,6 +3957,7 @@ const LanguagesData = [
     value: "ru-BY",
     type: "lang",
     voices: [],
+    placeholder: "напишите свой текст здесь",
   },
   {
     key: "lang_ru-KG",
@@ -3470,6 +3965,7 @@ const LanguagesData = [
     value: "ru-KG",
     type: "lang",
     voices: [],
+    placeholder: "напишите свой текст здесь",
   },
   {
     key: "lang_ru-KZ",
@@ -3477,6 +3973,7 @@ const LanguagesData = [
     value: "ru-KZ",
     type: "lang",
     voices: [],
+    placeholder: "напишите свой текст здесь",
   },
   {
     key: "lang_ru-MD",
@@ -3484,6 +3981,7 @@ const LanguagesData = [
     value: "ru-MD",
     type: "lang",
     voices: [],
+    placeholder: "напишите свой текст здесь",
   },
   {
     key: "lang_ru-RU",
@@ -3491,6 +3989,7 @@ const LanguagesData = [
     value: "ru-RU",
     type: "lang",
     voices: [],
+    placeholder: "напишите свой текст здесь",
   },
   {
     key: "lang_ru-UA",
@@ -3498,6 +3997,7 @@ const LanguagesData = [
     value: "ru-UA",
     type: "lang",
     voices: [],
+    placeholder: "напишите свой текст здесь",
   },
   {
     key: "lang_rw",
@@ -3505,6 +4005,7 @@ const LanguagesData = [
     value: "rw",
     type: "lang",
     voices: [],
+    placeholder: "andika inyandiko yawe hano",
   },
   {
     key: "lang_rw-RW",
@@ -3512,6 +4013,7 @@ const LanguagesData = [
     value: "rw-RW",
     type: "lang",
     voices: [],
+    placeholder: "andika inyandiko yawe hano",
   },
   {
     key: "lang_rwk",
@@ -3519,6 +4021,7 @@ const LanguagesData = [
     value: "rwk",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_rwk-TZ",
@@ -3526,6 +4029,7 @@ const LanguagesData = [
     value: "rwk-TZ",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_saq",
@@ -3533,6 +4037,7 @@ const LanguagesData = [
     value: "saq",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_saq-KE",
@@ -3540,6 +4045,7 @@ const LanguagesData = [
     value: "saq-KE",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_sbp",
@@ -3547,6 +4053,7 @@ const LanguagesData = [
     value: "sbp",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_sbp-TZ",
@@ -3554,6 +4061,7 @@ const LanguagesData = [
     value: "sbp-TZ",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_seh",
@@ -3561,6 +4069,7 @@ const LanguagesData = [
     value: "seh",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_seh-MZ",
@@ -3568,6 +4077,7 @@ const LanguagesData = [
     value: "seh-MZ",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_ses",
@@ -3575,6 +4085,7 @@ const LanguagesData = [
     value: "ses",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_ses-ML",
@@ -3582,6 +4093,7 @@ const LanguagesData = [
     value: "ses-ML",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_sg",
@@ -3589,6 +4101,7 @@ const LanguagesData = [
     value: "sg",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_sg-CF",
@@ -3596,6 +4109,7 @@ const LanguagesData = [
     value: "sg-CF",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_shi",
@@ -3603,6 +4117,7 @@ const LanguagesData = [
     value: "shi",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_shi",
@@ -3610,6 +4125,7 @@ const LanguagesData = [
     value: "shi",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_shi-MA",
@@ -3617,6 +4133,7 @@ const LanguagesData = [
     value: "shi-MA",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_shi",
@@ -3624,6 +4141,7 @@ const LanguagesData = [
     value: "shi",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_shi-MA",
@@ -3631,6 +4149,7 @@ const LanguagesData = [
     value: "shi-MA",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_si",
@@ -3638,6 +4157,7 @@ const LanguagesData = [
     value: "si",
     type: "lang",
     voices: [],
+    placeholder: "ඔබේ පෙළ මෙහි ලියන්න",
   },
   {
     key: "lang_si-LK",
@@ -3645,6 +4165,7 @@ const LanguagesData = [
     value: "si-LK",
     type: "lang",
     voices: [],
+    placeholder: "ඔබේ පෙළ මෙහි ලියන්න",
   },
   {
     key: "lang_sk",
@@ -3652,6 +4173,7 @@ const LanguagesData = [
     value: "sk",
     type: "lang",
     voices: [],
+    placeholder: "napíšte sem svoj text",
   },
   {
     key: "lang_sk-SK",
@@ -3659,6 +4181,7 @@ const LanguagesData = [
     value: "sk-SK",
     type: "lang",
     voices: [],
+    placeholder: "napíšte sem svoj text",
   },
   {
     key: "lang_sl",
@@ -3666,6 +4189,7 @@ const LanguagesData = [
     value: "sl",
     type: "lang",
     voices: [],
+    placeholder: "napišite svoje besedilo tukaj",
   },
   {
     key: "lang_sl-SI",
@@ -3673,6 +4197,7 @@ const LanguagesData = [
     value: "sl-SI",
     type: "lang",
     voices: [],
+    placeholder: "napišite svoje besedilo tukaj",
   },
   {
     key: "lang_sn",
@@ -3680,6 +4205,7 @@ const LanguagesData = [
     value: "sn",
     type: "lang",
     voices: [],
+    placeholder: "nyora chinyorwa chako pano",
   },
   {
     key: "lang_sn-ZW",
@@ -3687,6 +4213,7 @@ const LanguagesData = [
     value: "sn-ZW",
     type: "lang",
     voices: [],
+    placeholder: "nyora chinyorwa chako pano",
   },
   {
     key: "lang_so",
@@ -3694,6 +4221,7 @@ const LanguagesData = [
     value: "so",
     type: "lang",
     voices: [],
+    placeholder: "halkan ku qor qoraalkaaga",
   },
   {
     key: "lang_so-DJ",
@@ -3701,6 +4229,7 @@ const LanguagesData = [
     value: "so-DJ",
     type: "lang",
     voices: [],
+    placeholder: "halkan ku qor qoraalkaaga",
   },
   {
     key: "lang_so-ET",
@@ -3708,6 +4237,7 @@ const LanguagesData = [
     value: "so-ET",
     type: "lang",
     voices: [],
+    placeholder: "halkan ku qor qoraalkaaga",
   },
   {
     key: "lang_so-KE",
@@ -3715,6 +4245,7 @@ const LanguagesData = [
     value: "so-KE",
     type: "lang",
     voices: [],
+    placeholder: "halkan ku qor qoraalkaaga",
   },
   {
     key: "lang_so-SO",
@@ -3722,6 +4253,7 @@ const LanguagesData = [
     value: "so-SO",
     type: "lang",
     voices: [],
+    placeholder: "halkan ku qor qoraalkaaga",
   },
   {
     key: "lang_sq",
@@ -3729,6 +4261,7 @@ const LanguagesData = [
     value: "sq",
     type: "lang",
     voices: [],
+    placeholder: "shkruani tekstin tuaj këtu",
   },
   {
     key: "lang_sq-AL",
@@ -3736,6 +4269,7 @@ const LanguagesData = [
     value: "sq-AL",
     type: "lang",
     voices: [],
+    placeholder: "shkruani tekstin tuaj këtu",
   },
   {
     key: "lang_sq-MK",
@@ -3743,6 +4277,7 @@ const LanguagesData = [
     value: "sq-MK",
     type: "lang",
     voices: [],
+    placeholder: "shkruani tekstin tuaj këtu",
   },
   {
     key: "lang_sq-XK",
@@ -3750,6 +4285,7 @@ const LanguagesData = [
     value: "sq-XK",
     type: "lang",
     voices: [],
+    placeholder: "shkruani tekstin tuaj këtu",
   },
   {
     key: "lang_sr",
@@ -3757,6 +4293,7 @@ const LanguagesData = [
     value: "sr",
     type: "lang",
     voices: [],
+    placeholder: "напишите свој текст овде",
   },
   {
     key: "lang_sr",
@@ -3764,6 +4301,7 @@ const LanguagesData = [
     value: "sr",
     type: "lang",
     voices: [],
+    placeholder: "напишите свој текст овде",
   },
   {
     key: "lang_sr-BA",
@@ -3771,6 +4309,7 @@ const LanguagesData = [
     value: "sr-BA",
     type: "lang",
     voices: [],
+    placeholder: "напишите свој текст овде",
   },
   {
     key: "lang_sr-ME",
@@ -3778,6 +4317,7 @@ const LanguagesData = [
     value: "sr-ME",
     type: "lang",
     voices: [],
+    placeholder: "напишите свој текст овде",
   },
   {
     key: "lang_sr-RS",
@@ -3785,6 +4325,7 @@ const LanguagesData = [
     value: "sr-RS",
     type: "lang",
     voices: [],
+    placeholder: "напишите свој текст овде",
   },
   {
     key: "lang_sr-XK",
@@ -3792,6 +4333,7 @@ const LanguagesData = [
     value: "sr-XK",
     type: "lang",
     voices: [],
+    placeholder: "напишите свој текст овде",
   },
   {
     key: "lang_sr",
@@ -3799,6 +4341,7 @@ const LanguagesData = [
     value: "sr",
     type: "lang",
     voices: [],
+    placeholder: "напишите свој текст овде",
   },
   {
     key: "lang_sr-BA",
@@ -3806,6 +4349,7 @@ const LanguagesData = [
     value: "sr-BA",
     type: "lang",
     voices: [],
+    placeholder: "напишите свој текст овде",
   },
   {
     key: "lang_sr-ME",
@@ -3813,6 +4357,7 @@ const LanguagesData = [
     value: "sr-ME",
     type: "lang",
     voices: [],
+    placeholder: "напишите свој текст овде",
   },
   {
     key: "lang_sr-RS",
@@ -3820,6 +4365,7 @@ const LanguagesData = [
     value: "sr-RS",
     type: "lang",
     voices: [],
+    placeholder: "напишите свој текст овде",
   },
   {
     key: "lang_sr-XK",
@@ -3827,6 +4373,7 @@ const LanguagesData = [
     value: "sr-XK",
     type: "lang",
     voices: [],
+    placeholder: "напишите свој текст овде",
   },
   {
     key: "lang_sv",
@@ -3834,6 +4381,7 @@ const LanguagesData = [
     value: "sv",
     type: "lang",
     voices: [],
+    placeholder: "skriv din text här",
   },
   {
     key: "lang_sv-AX",
@@ -3841,6 +4389,7 @@ const LanguagesData = [
     value: "sv-AX",
     type: "lang",
     voices: [],
+    placeholder: "skriv din text här",
   },
   {
     key: "lang_sv-FI",
@@ -3848,6 +4397,7 @@ const LanguagesData = [
     value: "sv-FI",
     type: "lang",
     voices: [],
+    placeholder: "skriv din text här",
   },
   {
     key: "lang_sv-SE",
@@ -3855,6 +4405,7 @@ const LanguagesData = [
     value: "sv-SE",
     type: "lang",
     voices: [],
+    placeholder: "skriv din text här",
   },
   {
     key: "lang_sw",
@@ -3862,6 +4413,7 @@ const LanguagesData = [
     value: "sw",
     type: "lang",
     voices: [],
+    placeholder: "andika maandishi yako hapa",
   },
   {
     key: "lang_sw-KE",
@@ -3869,6 +4421,7 @@ const LanguagesData = [
     value: "sw-KE",
     type: "lang",
     voices: [],
+    placeholder: "andika maandishi yako hapa",
   },
   {
     key: "lang_sw-TZ",
@@ -3876,6 +4429,7 @@ const LanguagesData = [
     value: "sw-TZ",
     type: "lang",
     voices: [],
+    placeholder: "andika maandishi yako hapa",
   },
   {
     key: "lang_sw-UG",
@@ -3883,6 +4437,7 @@ const LanguagesData = [
     value: "sw-UG",
     type: "lang",
     voices: [],
+    placeholder: "andika maandishi yako hapa",
   },
   {
     key: "lang_swc",
@@ -3890,6 +4445,7 @@ const LanguagesData = [
     value: "swc",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_swc-CD",
@@ -3897,6 +4453,7 @@ const LanguagesData = [
     value: "swc-CD",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_ta",
@@ -3904,6 +4461,7 @@ const LanguagesData = [
     value: "ta",
     type: "lang",
     voices: [],
+    placeholder: "உங்கள் உரையை இங்கே எழுதுங்கள்",
   },
   {
     key: "lang_ta-IN",
@@ -3911,6 +4469,7 @@ const LanguagesData = [
     value: "ta-IN",
     type: "lang",
     voices: [],
+    placeholder: "உங்கள் உரையை இங்கே எழுதுங்கள்",
   },
   {
     key: "lang_ta-LK",
@@ -3918,6 +4477,7 @@ const LanguagesData = [
     value: "ta-LK",
     type: "lang",
     voices: [],
+    placeholder: "உங்கள் உரையை இங்கே எழுதுங்கள்",
   },
   {
     key: "lang_ta-MY",
@@ -3925,6 +4485,7 @@ const LanguagesData = [
     value: "ta-MY",
     type: "lang",
     voices: [],
+    placeholder: "உங்கள் உரையை இங்கே எழுதுங்கள்",
   },
   {
     key: "lang_ta-SG",
@@ -3932,6 +4493,7 @@ const LanguagesData = [
     value: "ta-SG",
     type: "lang",
     voices: [],
+    placeholder: "உங்கள் உரையை இங்கே எழுதுங்கள்",
   },
   {
     key: "lang_te",
@@ -3939,6 +4501,7 @@ const LanguagesData = [
     value: "te",
     type: "lang",
     voices: [],
+    placeholder: "మీ వచనాన్ని ఇక్కడ వ్రాయండి",
   },
   {
     key: "lang_te-IN",
@@ -3946,6 +4509,7 @@ const LanguagesData = [
     value: "te-IN",
     type: "lang",
     voices: [],
+    placeholder: "మీ వచనాన్ని ఇక్కడ వ్రాయండి",
   },
   {
     key: "lang_teo",
@@ -3953,6 +4517,7 @@ const LanguagesData = [
     value: "teo",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_teo-KE",
@@ -3960,6 +4525,7 @@ const LanguagesData = [
     value: "teo-KE",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_teo-UG",
@@ -3967,6 +4533,7 @@ const LanguagesData = [
     value: "teo-UG",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_th",
@@ -3974,6 +4541,7 @@ const LanguagesData = [
     value: "th",
     type: "lang",
     voices: [],
+    placeholder: "เขียนข้อความของคุณที่นี่",
   },
   {
     key: "lang_th-TH",
@@ -3981,6 +4549,7 @@ const LanguagesData = [
     value: "th-TH",
     type: "lang",
     voices: [],
+    placeholder: "เขียนข้อความของคุณที่นี่",
   },
   {
     key: "lang_ti",
@@ -3988,6 +4557,7 @@ const LanguagesData = [
     value: "ti",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_ti-ER",
@@ -3995,6 +4565,7 @@ const LanguagesData = [
     value: "ti-ER",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_ti-ET",
@@ -4002,6 +4573,7 @@ const LanguagesData = [
     value: "ti-ET",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_to",
@@ -4009,6 +4581,7 @@ const LanguagesData = [
     value: "to",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_to-TO",
@@ -4016,6 +4589,7 @@ const LanguagesData = [
     value: "to-TO",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_tr",
@@ -4023,6 +4597,7 @@ const LanguagesData = [
     value: "tr",
     type: "lang",
     voices: [],
+    placeholder: "Metninizi buraya yazın",
   },
   {
     key: "lang_tr-CY",
@@ -4030,6 +4605,7 @@ const LanguagesData = [
     value: "tr-CY",
     type: "lang",
     voices: [],
+    placeholder: "Metninizi buraya yazın",
   },
   {
     key: "lang_tr-TR",
@@ -4037,6 +4613,7 @@ const LanguagesData = [
     value: "tr-TR",
     type: "lang",
     voices: [],
+    placeholder: "Metninizi buraya yazın",
   },
   {
     key: "lang_twq",
@@ -4044,6 +4621,7 @@ const LanguagesData = [
     value: "twq",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_twq-NE",
@@ -4051,6 +4629,7 @@ const LanguagesData = [
     value: "twq-NE",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_tzm",
@@ -4058,6 +4637,7 @@ const LanguagesData = [
     value: "tzm",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_tzm",
@@ -4065,6 +4645,7 @@ const LanguagesData = [
     value: "tzm",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_tzm-MA",
@@ -4072,6 +4653,7 @@ const LanguagesData = [
     value: "tzm-MA",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_ug",
@@ -4079,6 +4661,7 @@ const LanguagesData = [
     value: "ug",
     type: "lang",
     voices: [],
+    placeholder: "تېكىستىڭىزنى بۇ يەرگە يېزىڭ",
   },
   {
     key: "lang_ug",
@@ -4086,6 +4669,7 @@ const LanguagesData = [
     value: "ug",
     type: "lang",
     voices: [],
+    placeholder: "تېكىستىڭىزنى بۇ يەرگە يېزىڭ",
   },
   {
     key: "lang_ug-CN",
@@ -4093,6 +4677,7 @@ const LanguagesData = [
     value: "ug-CN",
     type: "lang",
     voices: [],
+    placeholder: "تېكىستىڭىزنى بۇ يەرگە يېزىڭ",
   },
   {
     key: "lang_uk",
@@ -4100,6 +4685,7 @@ const LanguagesData = [
     value: "uk",
     type: "lang",
     voices: [],
+    placeholder: "напишіть тут свій текст",
   },
   {
     key: "lang_uk-UA",
@@ -4107,6 +4693,7 @@ const LanguagesData = [
     value: "uk-UA",
     type: "lang",
     voices: [],
+    placeholder: "напишіть тут свій текст",
   },
   {
     key: "lang_ur",
@@ -4114,6 +4701,7 @@ const LanguagesData = [
     value: "ur",
     type: "lang",
     voices: [],
+    placeholder: "اپنا متن یہاں لکھیں۔",
   },
   {
     key: "lang_ur-IN",
@@ -4121,6 +4709,7 @@ const LanguagesData = [
     value: "ur-IN",
     type: "lang",
     voices: [],
+    placeholder: "اپنا متن یہاں لکھیں۔",
   },
   {
     key: "lang_ur-PK",
@@ -4128,6 +4717,7 @@ const LanguagesData = [
     value: "ur-PK",
     type: "lang",
     voices: [],
+    placeholder: "اپنا متن یہاں لکھیں۔",
   },
   {
     key: "lang_uz",
@@ -4135,6 +4725,7 @@ const LanguagesData = [
     value: "uz",
     type: "lang",
     voices: [],
+    placeholder: "matningizni shu yerga yozing",
   },
   {
     key: "lang_uz",
@@ -4142,6 +4733,7 @@ const LanguagesData = [
     value: "uz",
     type: "lang",
     voices: [],
+    placeholder: "matningizni shu yerga yozing",
   },
   {
     key: "lang_uz-AF",
@@ -4149,6 +4741,7 @@ const LanguagesData = [
     value: "uz-AF",
     type: "lang",
     voices: [],
+    placeholder: "matningizni shu yerga yozing",
   },
   {
     key: "lang_uz",
@@ -4156,6 +4749,7 @@ const LanguagesData = [
     value: "uz",
     type: "lang",
     voices: [],
+    placeholder: "matningizni shu yerga yozing",
   },
   {
     key: "lang_uz-UZ",
@@ -4163,6 +4757,7 @@ const LanguagesData = [
     value: "uz-UZ",
     type: "lang",
     voices: [],
+    placeholder: "matningizni shu yerga yozing",
   },
   {
     key: "lang_uz",
@@ -4170,6 +4765,7 @@ const LanguagesData = [
     value: "uz",
     type: "lang",
     voices: [],
+    placeholder: "matningizni shu yerga yozing",
   },
   {
     key: "lang_uz-UZ",
@@ -4177,6 +4773,7 @@ const LanguagesData = [
     value: "uz-UZ",
     type: "lang",
     voices: [],
+    placeholder: "matningizni shu yerga yozing",
   },
   {
     key: "lang_vai",
@@ -4184,6 +4781,7 @@ const LanguagesData = [
     value: "vai",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_vai",
@@ -4191,6 +4789,7 @@ const LanguagesData = [
     value: "vai",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_vai-LR",
@@ -4198,6 +4797,7 @@ const LanguagesData = [
     value: "vai-LR",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_vai",
@@ -4205,6 +4805,7 @@ const LanguagesData = [
     value: "vai",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_vai-LR",
@@ -4212,20 +4813,23 @@ const LanguagesData = [
     value: "vai-LR",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_vi",
-    label: "Viet{namese",
+    label: "Vietnamese",
     value: "vi",
     type: "lang",
     voices: [],
+    placeholder: "viết văn bản của bạn ở đây",
   },
   {
     key: "lang_vi-VN",
-    label: "Viet{namese (Vietnam)",
+    label: "Vietnamese (Vietnam)",
     value: "vi-VN",
     type: "lang",
     voices: [],
+    placeholder: "viết văn bản của bạn ở đây",
   },
   {
     key: "lang_vun",
@@ -4233,6 +4837,7 @@ const LanguagesData = [
     value: "vun",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_vun-TZ",
@@ -4240,6 +4845,7 @@ const LanguagesData = [
     value: "vun-TZ",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_xog",
@@ -4247,6 +4853,7 @@ const LanguagesData = [
     value: "xog",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_xog-UG",
@@ -4254,6 +4861,7 @@ const LanguagesData = [
     value: "xog-UG",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_yav",
@@ -4261,6 +4869,7 @@ const LanguagesData = [
     value: "yav",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_yav-CM",
@@ -4268,6 +4877,7 @@ const LanguagesData = [
     value: "yav-CM",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_yo",
@@ -4275,6 +4885,7 @@ const LanguagesData = [
     value: "yo",
     type: "lang",
     voices: [],
+    placeholder: "kọ ọrọ rẹ nibi",
   },
   {
     key: "lang_yo-BJ",
@@ -4282,6 +4893,7 @@ const LanguagesData = [
     value: "yo-BJ",
     type: "lang",
     voices: [],
+    placeholder: "kọ ọrọ rẹ nibi",
   },
   {
     key: "lang_yo-NG",
@@ -4289,6 +4901,7 @@ const LanguagesData = [
     value: "yo-NG",
     type: "lang",
     voices: [],
+    placeholder: "kọ ọrọ rẹ nibi",
   },
   {
     key: "lang_zgh",
@@ -4296,6 +4909,7 @@ const LanguagesData = [
     value: "zgh",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_zgh-MA",
@@ -4303,6 +4917,7 @@ const LanguagesData = [
     value: "zgh-MA",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_zh",
@@ -4310,6 +4925,7 @@ const LanguagesData = [
     value: "zh",
     type: "lang",
     voices: [],
+    placeholder: "在這裡寫下你的文字",
   },
   {
     key: "lang_zh",
@@ -4317,6 +4933,7 @@ const LanguagesData = [
     value: "zh",
     type: "lang",
     voices: [],
+    placeholder: "在这里写下你的文字",
   },
   {
     key: "lang_zh-CN",
@@ -4324,6 +4941,7 @@ const LanguagesData = [
     value: "zh-CN",
     type: "lang",
     voices: [],
+    placeholder: "在这里写下你的文字",
   },
   {
     key: "lang_zh-HK",
@@ -4331,6 +4949,7 @@ const LanguagesData = [
     value: "zh-HK",
     type: "lang",
     voices: [],
+    placeholder: "在这里写下你的文字",
   },
   {
     key: "lang_zh-MO",
@@ -4338,6 +4957,7 @@ const LanguagesData = [
     value: "zh-MO",
     type: "lang",
     voices: [],
+    placeholder: "在这里写下你的文字",
   },
   {
     key: "lang_zh-SG",
@@ -4345,6 +4965,7 @@ const LanguagesData = [
     value: "zh-SG",
     type: "lang",
     voices: [],
+    placeholder: "在这里写下你的文字",
   },
   {
     key: "lang_zh",
@@ -4352,6 +4973,7 @@ const LanguagesData = [
     value: "zh",
     type: "lang",
     voices: [],
+    placeholder: "在這裡寫下你的文字",
   },
   {
     key: "lang_zh-HK",
@@ -4359,6 +4981,7 @@ const LanguagesData = [
     value: "zh-HK",
     type: "lang",
     voices: [],
+    placeholder: "在這裡寫下你的文字",
   },
   {
     key: "lang_zh-MO",
@@ -4366,6 +4989,7 @@ const LanguagesData = [
     value: "zh-MO",
     type: "lang",
     voices: [],
+    placeholder: "在這裡寫下你的文字",
   },
   {
     key: "lang_zh-TW",
@@ -4373,6 +4997,7 @@ const LanguagesData = [
     value: "zh-TW",
     type: "lang",
     voices: [],
+    placeholder: "在這裡寫下你的文字",
   },
   {
     key: "lang_zu",
@@ -4380,6 +5005,7 @@ const LanguagesData = [
     value: "zu",
     type: "lang",
     voices: [],
+    placeholder: "bhala umbhalo wakho lapha",
   },
   {
     key: "lang_zu-ZA",
@@ -4387,6 +5013,7 @@ const LanguagesData = [
     value: "zu-ZA",
     type: "lang",
     voices: [],
+    placeholder: "write your text here",
   },
   {
     key: "lang_jv-ID",
@@ -4394,6 +5021,7 @@ const LanguagesData = [
     value: "jv-ID",
     type: "lang",
     voices: [],
+    placeholder: "Tulis teks sampeyan ing kene",
   },
   {
     key: "lang_ku",
@@ -4401,6 +5029,7 @@ const LanguagesData = [
     value: "ku",
     type: "lang",
     voices: [],
+    placeholder: "li vir nivîsa xwe binivîse",
   },
   {
     key: "lang_la",
@@ -4408,6 +5037,7 @@ const LanguagesData = [
     value: "la",
     type: "lang",
     voices: [],
+    placeholder: "scribere fidem text hic",
   },
   {
     key: "lang_su-ID",
@@ -4415,6 +5045,7 @@ const LanguagesData = [
     value: "su-ID",
     type: "lang",
     voices: [],
+    placeholder: "nyerat téks anjeun di dieu",
   },
   {
     key: "lang_yue-HK",
@@ -4422,6 +5053,7 @@ const LanguagesData = [
     value: "yue-HK",
     type: "lang",
     voices: [],
+    placeholder: "在這裡寫你的文字",
   },
 ];
 
