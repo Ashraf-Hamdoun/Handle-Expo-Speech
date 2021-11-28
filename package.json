@@ -1,6 +1,6 @@
 {
   "name": "handle-expo-speech",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "This's for handling expo-speech's voices",
   "main": "index.js",
   "scripts": {

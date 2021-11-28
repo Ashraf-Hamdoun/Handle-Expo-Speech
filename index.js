@@ -1,4 +1,5 @@
 const LanguagesData = require("./assets/languagesData");
+const handleVoicesGender = require("./assets/handleVoicesGender");
 
 function handleVoices(data) {
   // Create array of languages
@@ -40,16 +41,27 @@ function handleVoices(data) {
     }
   });
 
+  // Add voice gender
+  const arrOfVoices = handleVoicesGender(data);
+
   // Distrbuite all voices
   const pushVoices = nwArr.map((ele) => {
-    const voicesOfThisLanguage = data.filter((e) => e.language == ele.value);
+    const voicesOfThisLanguage = arrOfVoices.filter(
+      (e) => e.language == ele.value
+    );
     return {
       ...ele,
       voices: voicesOfThisLanguage.map((voice) => {
         return {
           key: voice.identifier,
-          label: "Voice_0" + voicesOfThisLanguage.indexOf(voice),
+          label:
+            "Voice_0" +
+            (voicesOfThisLanguage.indexOf(voice) + 1) +
+            " (" +
+            voice.gender +
+            ")",
           value: voice.name,
+          gender: voice.gender,
           type: "voice",
         };
       }),
